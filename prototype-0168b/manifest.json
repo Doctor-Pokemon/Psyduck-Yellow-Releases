@@ -2,8 +2,8 @@
   "version": "0168-BETA",
   "source_sha256": "65f02a56842b75aa92d775d56d657a56fe3fa993550b04dc20704ab82d760105",
   "source_bytes": 134217728,
-  "output_sha256": "ab0caaa942f05e31b8681d293422d86c239380bad2c7600778296232a3931cd2",
-  "output_bytes": 201147136,
+  "output_sha256": "05a4f6f5be8d13f3ee1d93d0e50d351342b9eefc15bbac897ae46814dee7382c",
+  "output_bytes": 201172736,
   "output_name": "Pokemon Psyduck Yellow 0-1-6-8.nds",
   "cumulative": true,
   "roundtrip_verified": true,
@@ -31,8 +31,8 @@
     },
     {
       "url": "0039-art-to-0168.xdelta",
-      "bytes": 3253302,
-      "sha256": "e11b3efec2907afe3a7431c017b61bf5bd49c5bcc4facc018b885c89e2926fff"
+      "bytes": 3258341,
+      "sha256": "310638099f03bfd677402167732f8e3228083df156aae80e67400b16e39b43a1"
     }
   ]
 }
