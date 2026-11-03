@@ -18,7 +18,7 @@ Psyduck Yellow retells **Pokémon Yellow's Kanto story inside Pokémon HeartGold
 - **New in 0081:** Novareon's own Pokédex entry and follower, Mega Novareon art, Champion Blue, item balls in Silph Co., the Tower, the Rocket Hideout and Victory Road, Moltres, and fixes for trainer teams, the Game Corner and the Silph exit.
 - **New in 0105:** Pokémon Tower, Mt. Moon, Rock Tunnel, Rocket Hideout, Silph Co., the Pokémon Mansion, Viridian Gym, Victory Road and the Safari Zone rebuilt from Yellow's maps with their puzzles; a black-screen fix in Vermilion's Pokémon Center; a Pokédex registration fix.
 - **New in 0110:** the VS banners name the Elite Four and Champion Blue, Strength works with Kanto badges, Victory Road has real boulders, visible switches and Yellow's first-switch puzzle on 2F, and Novareon counts on the Trainer Card.
-- **New in 0168:** a Route 7 / Route 8 shortcut opens the way from Lavender Town to Celadon; the Lavender Pokémon Tower door and sign follow Yellow; Brock's escort in Pewter is faster; both Mart clerks sell; the custom TMs show their TM numbers; the Vermilion Gym sign reads "The Lightning Unovan"; the Celadon Game Corner can be entered from the street.
+- **New in 0168:** a Route 7 / Route 8 shortcut opens the way from Lavender Town to Celadon; the Lavender Pokémon Tower door and sign follow Yellow; Brock's escort in Pewter is faster; both Mart clerks sell; the custom TMs show their TM numbers; the Vermilion Gym sign reads "The Lightning Unovan"; the Celadon Game Corner can be entered from the street; the Rocket Hideout spinner tiles show arrows.
 - **New in 0161:** a New Game starts with the Kanto Pokédex (no National switch); Oak upgrades it to the National Pokédex later in the Johto postgame.
 - **New in 0160:** replaces 0158 (and 0157): the Town Map and Fly map stay Kanto-only until Elm's call even if the game already set New Bark Town's Fly point, and walking into Pallet Town no longer unlocks it.
 - **New in 0158:** replaces 0157, which crashed in battle (a Town Map change had overwritten a battle routine); same features as 0157, fixed.
@@ -27,7 +27,7 @@ Psyduck Yellow retells **Pokémon Yellow's Kanto story inside Pokémon HeartGold
 
 
 ## Play it
-1. Open the latest page from the [Releases](../../releases) section (or the [hosted BETA 0.1.6.8 patching page](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-0168b/index.html)).
+1. Open the latest page from the [Releases](../../releases) section (or the [hosted BETA 0.1.6.8 patching page](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-0168c/index.html)).
 2. Select your **own, original, unmodified USA HeartGold `.nds`**.
 3. Click *Create my playable NDS*, wait for verification, then download it and load it in your DS emulator.
 4. Start a **New Game**. Saves from older prototypes are not supported.
@@ -50,7 +50,7 @@ This is an unofficial fan project. It is not affiliated with or endorsed by Nint
 - Pokémon Yellow's data and layout reference from the [pret/pokeyellow](https://github.com/pret/pokeyellow) disassembly
 
 ## Release history (newest first)
-- **BETA 0.1.6.8 (prototype 0168) — November 3, 2026 (beta, testing only).** Opens the way from Lavender Town to Celadon (Route 7 / Route 8 shortcut) and into the Celadon Game Corner, plus the Lavender Pokémon Tower door and sign, a faster Pewter escort, both Mart clerks selling, TM labels and the Vermilion Gym sign. Everything else as in 0.1.61. Kanto complete to the first Hall of Fame; Johto unfinished.
+- **BETA 0.1.6.8 (prototype 0168) — November 3, 2026 (beta, testing only).** Opens the way from Lavender Town to Celadon (Route 7 / Route 8 shortcut) and into the Celadon Game Corner, shows arrows on the Rocket Hideout spinner tiles, plus the Lavender Pokémon Tower door and sign, a faster Pewter escort, both Mart clerks selling, TM labels and the Vermilion Gym sign. Everything else as in 0.1.61. Kanto complete to the first Hall of Fame; Johto unfinished.
 - **BETA 0.1.61 (prototype 0161) — November 3, 2026 (beta, testing only).** A New Game starts with the Kanto Pokédex instead of the National one (Oak upgrades it in the Johto postgame). Everything else as in 0.1.60. Kanto complete to the first Hall of Fame; Johto unfinished.
 - **BETA 0.1.60 (prototype 0160) — November 3, 2026 (beta, testing only).** Replaces 0.1.58 and 0.1.57: the Town Map and Fly map stay Kanto-only until Elm calls in Johto (0.1.58 could still be scrolled into Johto right after getting the Pokégear), and Pallet Town no longer unlocks New Bark Town's Fly point. Everything else as in 0.1.58. Kanto complete to the first Hall of Fame; Johto unfinished.
 - **BETA 0.1.58 (prototype 0158) — November 3, 2026 — SUPERSEDED, the Town Map lock can be bypassed; use 0.1.60.** Replaces 0.1.57, which crashed in battle: the first move you used froze the game. Everything from 0.1.57 (Town Map that shows only Kanto until Johto, first parts of the Johto postgame, redesigned Eevee/Psyduck starters, shared Kanto Mart stock) is in this build. Kanto complete to the first Hall of Fame; Johto unfinished.

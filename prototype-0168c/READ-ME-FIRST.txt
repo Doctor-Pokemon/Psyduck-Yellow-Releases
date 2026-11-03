@@ -4,14 +4,15 @@ Pokemon Psyduck Yellow - BETA 0.1.6.8 (prototype 0168) BETA - November 3, 2026
 The Kanto campaign (Pallet Town to your first Hall of Fame) is built. The first parts of the Johto postgame are built too, but Johto as a whole is UNFINISHED and has not been played through.
 
 HOW TO PLAY
-1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-0168b/index.html
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-0168c/index.html
 2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
 3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow 0-1-6-8.nds") and load it in your DS emulator.
 4. Start a NEW GAME. Saves from older prototypes do not work (a renamed old save may behave strangely). Keep this build and its saves separate, and never reuse emulator save states between versions.
-Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 05a4f6f5be8d13f3ee1d93d0e50d351342b9eefc15bbac897ae46814dee7382c
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 6671c12982b94a24a9057bdc1ad9c42112cd140840337e83b93821f6ff2aabf2
 
-WHAT IS NEW SINCE 0.1.61 (internal builds 0162-0171)
+WHAT IS NEW SINCE 0.1.61 (internal builds 0162-0172)
 - Replaces BETA 0.1.61. Use 0.1.6.8: it also opens the way from Lavender Town to Celadon, and from Celadon's streets into the Game Corner and the Rocket Hideout, which 0.1.61 left closed.
+- Rocket Hideout (new): the spinner (arrow) tiles on B2F and B3F now show a red pad with a white arrow pointing the way each one pushes you, so the mazes can be read.
 - Celadon City (new): the Game Corner (with the Rocket guard and the poster to the Rocket Hideout) now has a door from the street: the blue arched door. Mr. Game's room moved behind the red door next to it, and a door in the middle of his north wall leads to the Prize Redemption room, whose south door leads back.
 - Route 7 / Route 8 tunnel (new): the sealed Underground Path doors on Route 8 (east of the Saffron gatehouse) and Route 7 now lead to each other, so you can get from Lavender Town to Celadon City before Saffron opens. This is a plain door-to-door shortcut with no tunnel interior yet. The old notice on Route 7 still says the path is sealed.
 - Lavender Town: the Radio Tower door leads straight to Pokémon Tower 1F and its sign reads like Yellow's Pokémon Tower sign; both go back to the Radio Tower after your first Hall of Fame.
@@ -23,7 +24,7 @@ WHAT IS NEW SINCE 0.1.61 (internal builds 0162-0171)
 
 WHAT HAS BEEN TESTED
 - The developer has played New Game through Lavender Town on earlier builds, partly on a real 3DS.
-- Everything in the list above has only had small emulator checks on prepared test saves (the door, sign, shop or escort used once and the exit taken). The Route 7 / Route 8 shortcut was walked in both directions in the emulator and confirmed on a real 3DS. The Celadon doors (Game Corner, Mr. Game, Prize room) were walked in the emulator only.
+- Everything in the list above has only had small emulator checks on prepared test saves (the door, sign, shop or escort used once and the exit taken). The Route 7 / Route 8 shortcut was walked in both directions in the emulator and confirmed on a real 3DS. The Celadon doors (Game Corner, Mr. Game, Prize room) were confirmed on a real 3DS. The Rocket Hideout arrows were checked in the emulator only (screenshots of B2F and B3F and one slide).
 - Everything after Lavender, and every Johto step, has only had small emulator checks on prepared test saves and has never been played through in one go.
 
 NOT BUILT YET
@@ -34,6 +35,7 @@ Reported by the developer: the top screen can turn black in the overworld; savin
 Some move descriptions on the summary screen's Moves page are cut off at the right edge.
 The Lavender Town building with the Pokemon Tower door still looks like the Radio Tower from outside.
 The new door in the north wall of Mr. Game's room (Celadon) is drawn as a picture, with no door art yet.
+DO NOT press A on the slot machines in the Celadon Game Corner: the slot games are not built, and pressing A hangs the game (the screen goes unresponsive, NPC text turns blank, and leaving the map can crash with a red "Data Abort" screen). Talking to the people and the Rocket guard is fine.
 Mega Punch and Focus Punch both show as TM 001 in the bag's TM list.
 The Union Room (Pokemon Center 2nd floor) reads a missing structure and is left alone until online play exists.
 One freeze was reported when arriving in Cerulean after fighting a Route 25 trainer who blocked the path (not reproduced).
