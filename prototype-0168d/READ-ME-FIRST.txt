@@ -4,14 +4,15 @@ Pokemon Psyduck Yellow - BETA 0.1.6.8 (prototype 0168) BETA - November 3, 2026
 The Kanto campaign (Pallet Town to your first Hall of Fame) is built. The first parts of the Johto postgame are built too, but Johto as a whole is UNFINISHED and has not been played through.
 
 HOW TO PLAY
-1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-0168c/index.html
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-0168d/index.html
 2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
 3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow 0-1-6-8.nds") and load it in your DS emulator.
 4. Start a NEW GAME. Saves from older prototypes do not work (a renamed old save may behave strangely). Keep this build and its saves separate, and never reuse emulator save states between versions.
-Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 6671c12982b94a24a9057bdc1ad9c42112cd140840337e83b93821f6ff2aabf2
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: ce1ba9a6fc5b47932a36f6ab623bd2082294c865de397215da55a5b311b155b5
 
-WHAT IS NEW SINCE 0.1.61 (internal builds 0162-0172)
+WHAT IS NEW SINCE 0.1.61 (internal builds 0162-0173)
 - Replaces BETA 0.1.61. Use 0.1.6.8: it also opens the way from Lavender Town to Celadon, and from Celadon's streets into the Game Corner and the Rocket Hideout, which 0.1.61 left closed.
+- Saffron Fighting Dojo (new): the man in the Dojo now says the Karate King is away, "...but I can still teach you a lesson.", and battles you as a Black Belt with Yellow's Karate Master team (Hitmonlee and Hitmonchan, level 37). After you win, two Poké Balls behind him unlock: pick Hitmonlee or Hitmonchan (level 30, holding a Black Belt); the other ball disappears.
 - Rocket Hideout (new): the spinner (arrow) tiles on B2F and B3F now show a red pad with a white arrow pointing the way each one pushes you, so the mazes can be read.
 - Celadon City (new): the Game Corner (with the Rocket guard and the poster to the Rocket Hideout) now has a door from the street: the blue arched door. Mr. Game's room moved behind the red door next to it, and a door in the middle of his north wall leads to the Prize Redemption room, whose south door leads back.
 - Route 7 / Route 8 tunnel (new): the sealed Underground Path doors on Route 8 (east of the Saffron gatehouse) and Route 7 now lead to each other, so you can get from Lavender Town to Celadon City before Saffron opens. This is a plain door-to-door shortcut with no tunnel interior yet. The old notice on Route 7 still says the path is sealed.
@@ -24,7 +25,7 @@ WHAT IS NEW SINCE 0.1.61 (internal builds 0162-0172)
 
 WHAT HAS BEEN TESTED
 - The developer has played New Game through Lavender Town on earlier builds, partly on a real 3DS.
-- Everything in the list above has only had small emulator checks on prepared test saves (the door, sign, shop or escort used once and the exit taken). The Route 7 / Route 8 shortcut was walked in both directions in the emulator and confirmed on a real 3DS. The Celadon doors (Game Corner, Mr. Game, Prize room) were confirmed on a real 3DS. The Rocket Hideout arrows were checked in the emulator only (screenshots of B2F and B3F and one slide).
+- Everything in the list above has only had small emulator checks on prepared test saves (the door, sign, shop or escort used once and the exit taken). The Route 7 / Route 8 shortcut was walked in both directions in the emulator and confirmed on a real 3DS. The Celadon doors (Game Corner, Mr. Game, Prize room) were confirmed on a real 3DS. The Rocket Hideout arrows and the Fighting Dojo battle and prize were checked in the emulator only (screenshots, one slide, a won battle, picking a ball).
 - Everything after Lavender, and every Johto step, has only had small emulator checks on prepared test saves and has never been played through in one go.
 
 NOT BUILT YET
