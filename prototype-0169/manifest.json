@@ -1,10 +1,10 @@
 {
-  "version": "0168-BETA",
+  "version": "0169-BETA",
   "source_sha256": "65f02a56842b75aa92d775d56d657a56fe3fa993550b04dc20704ab82d760105",
   "source_bytes": 134217728,
-  "output_sha256": "ce1ba9a6fc5b47932a36f6ab623bd2082294c865de397215da55a5b311b155b5",
-  "output_bytes": 201206528,
-  "output_name": "Pokemon Psyduck Yellow 0-1-6-8.nds",
+  "output_sha256": "6b4ab63eb889b8bd2db464b47017de3b9e237e68878aec2ee896654fad77afe7",
+  "output_bytes": 201244416,
+  "output_name": "Pokemon Psyduck Yellow 0-1-6-9.nds",
   "cumulative": true,
   "roundtrip_verified": true,
   "status": "BETA for testing only: Kanto through the first Hall of Fame plus the first parts of the Johto postgame; Johto unfinished; owner-played to Lavender Town only",
@@ -30,9 +30,9 @@
       "sha256": "0c0a17f1400d5317054f0e74464b54c6b43144a20eb6aa6902d8ece347121689"
     },
     {
-      "url": "0039-art-to-0168.xdelta",
-      "bytes": 3244785,
-      "sha256": "dedd2cc058ecfef055cb7016d18ca5113ad5acdbadbbc71144824dccbc2e1547"
+      "url": "0039-art-to-0169.xdelta",
+      "bytes": 3228116,
+      "sha256": "785318f0ad3733d4c95e54fe0180c76b319f2a78760f0a494f69d3c495931fe1"
     }
   ]
 }
