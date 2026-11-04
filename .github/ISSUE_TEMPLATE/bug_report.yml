@@ -1,0 +1,57 @@
+name: Bug report
+description: Something is wrong in the game (softlock, crash, wrong text, missing event, ...)
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for testing! **Never attach ROM, game or save files.** A save hash (optional) is enough.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: For example BETA 0.1.6.9
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where do you play?
+      options:
+        - Emulator on PC (Windows)
+        - Emulator on PC (Linux / macOS)
+        - Emulator on Android
+        - Nintendo 3DS (nds-bootstrap / forwarder)
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: emulator
+    attributes:
+      label: Emulator or 3DS setup (name and version)
+      placeholder: "DeSmuME 0.9.13, melonDS 1.0, nds-bootstrap ..."
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to make it happen again
+      description: Where in the game were you, and what did you do just before?
+      placeholder: "1. ... 2. ... 3. ..."
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots and/or video captures
+      description: Drag and drop images or short videos here.
+  - type: input
+    id: savehash
+    attributes:
+      label: Save hash (SHA-256), if possible
+      description: See CONTRIBUTING.md for how to get it. Do not upload the save itself.
