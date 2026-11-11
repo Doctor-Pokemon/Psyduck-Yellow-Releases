@@ -2,7 +2,7 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
-## BETA 0.2.0.1 (prototype 0201) — November 11, 2026
+## BETA 0.2.1.0 (prototype 0210) — November 11, 2026
 **All features may not be in final version.**
 - Added Hisuian Forms to Form Trader NPC.
 
