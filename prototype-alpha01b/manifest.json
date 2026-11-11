@@ -1,9 +1,9 @@
 {
-  "version": "0010-ALPHA",
+  "version": "0010-ALPHA-2",
   "source_sha256": "65f02a56842b75aa92d775d56d657a56fe3fa993550b04dc20704ab82d760105",
   "source_bytes": 134217728,
-  "output_sha256": "2872a44f70ae015bc798a237007f92e4ca4772b058b00d8d2c9a9fd1a445ba88",
-  "output_bytes": 202726144,
+  "output_sha256": "da181953c49321aaeb3a57c4ddc3fae276046fe21f2c76988901f2616cb3ed40",
+  "output_bytes": 202757376,
   "output_name": "Pokemon Psyduck Yellow ALPHA 0-1.nds",
   "cumulative": true,
   "roundtrip_verified": true,
@@ -30,9 +30,9 @@
       "sha256": "0c0a17f1400d5317054f0e74464b54c6b43144a20eb6aa6902d8ece347121689"
     },
     {
-      "url": "0039-art-to-alpha01.xdelta",
-      "bytes": 2771566,
-      "sha256": "23e39df46c45d8fbd0d6833b6eae59b5fb394eb2deb59f34e55e64ecdee10e78"
+      "url": "0039-art-to-alpha01b.xdelta",
+      "bytes": 2761219,
+      "sha256": "3f5e86e84bd1f1de9667946e1561f492a7fc4d6845952bfd8b289c75e6e22b29"
     }
   ]
 }

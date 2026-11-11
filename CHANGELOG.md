@@ -8,6 +8,8 @@ All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project th
 - Mr. Pokémon now gives both the Blue Orb and the Red Orb. With the Red Orb in your bag, the orb in the Embedded Tower (the chamber behind the lower door on Route 47) summons one legendary Pokémon per day (a new one each weekday): it appears as its own follower sprite, walks up to you, and the battle starts when it touches you. Mew and Arceus can only appear once nearly all other Pokémon are registered as caught.
 - Added a Card Album key item with Gym Leader and Elite Four cards (Kanto and Johto) in three rarities. The card texts are placeholders.
 - Lorelei and Agatha have their own battle and overworld sprites, and the Kanto Elite Four speak their Pokémon Yellow lines.
+- The Jade Orb can be obtained again: after you have caught both Kyogre and Groudon in the Embedded Tower, Professor Oak gives it to you, and it now opens the way to Rayquaza. The orb in the Embedded Tower now works in all three chambers.
+- The player's PC Item Storage now starts empty on a New Game (no starting items, evolution items or charms), and Fly can no longer be used until you have the Thunder Badge (the Fly HM still comes from Lt. Surge).
 - Trainers' Pokémon no longer come out of Cherish Balls, and the Johto Gym Leaders no longer mention badges unlocking HM field moves (the HMs now come from the Kanto leaders).
 
 ## BETA 0.2.1.0 (prototype 0210) — November 11, 2026
