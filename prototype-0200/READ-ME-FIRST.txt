@@ -1,0 +1,39 @@
+Pokemon Psyduck Yellow - BETA 0.2.0.0 (prototype 0200) BETA - November 11, 2026
+
+*** ALL FEATURES MAY NOT BE IN FINAL VERSION. ***
+*** BETA, FOR TESTING ONLY. NOT A COMPLETE GAME. ***
+The Kanto campaign (Pallet Town to your first Hall of Fame) is built, and more of the Johto postgame is built too, but Johto as a whole is UNFINISHED and has not been played through.
+
+HOW TO PLAY
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-0200/index.html
+2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
+3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow 0-2-0-0.nds") and load it in your DS emulator.
+4. Start a NEW GAME. Saves from older prototypes do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 1af3b9af1dab4be64345b2753a45a680dba48f8a9614230f9254ac2534b4a5d1
+
+WHAT IS NEW SINCE 0.1.6.9
+- Replaces BETA 0.1.6.9. Everything from 0.1.6.9 is still here. All features may not be in final version.
+- Johto postgame, further along: the first Johto scenes (Elm's lab, the New Bark Town and Route 29 gate scenes) were repaired; a Johto Gym Leader is always in the gym until you have beaten him, and the postgame weekday schedule applies afterwards; Johto Gym Leaders' teams scale with your Johto badges; the S.S. Aqua ferry and its lost-granddaughter quest follow HeartGold's own flow.
+- HMs from the Kanto gyms: Brock gives Rock Smash, Misty Waterfall, Surge Fly, Blaine Rock Climb and Giovanni Whirlpool; the S.S. Anne captain gives Cut; Sabrina still gives Strength and Janine Surf. Each leader says what the HM does in the field and which Badge unlocks it.
+- Silph Co. Field Kit: after the Master Ball the Silph Co. President also gives you a Field Kit. With the right Badge it lets you clear Cut trees, Rock Smash rocks and Strength boulders without a Pokémon that knows the move.
+- Bag descriptions: items show real descriptions again (HeartGold's own text for the original items, new text for 52 of the added items).
+- National Dex after your first Hall of Fame: Kanto and Johto then use a second set of wild Pokémon tables. Hundreds of species the game never handed out now turn up in the rarer slots of grass, caves and water (legendary-class Pokémon are held back for later events). Before the first Hall of Fame nothing changes.
+- Evolutions: the Linking Cord now evolves every Pokémon that evolves by trade. Spritzee needs a held Sachet and Swirlix a held Whipped Dream, as in the games, and Kubfu can use its Scrolls.
+- Pokémon League shop: after your first Hall of Fame the clerk in the Pokémon League lobby also sells the evolution items nothing else gives out (the stones, Linking Cord, Whipped Dream, Sachet, Apples, Pots, Galarica items, Black Augurite, Peat Block, Scrolls, Armors and Metal Alloy).
+- Form Trader: a new NPC in the Johto Safari Zone Gate swaps a Pokémon for its Alolan or Galarian form (34 forms). Its stats, ability and moves follow the new form. The swap is one way.
+- 3DS: a red-screen crash right before Morty's battle was worked around (confirmed on a real 3DS).
+- The save layout is unchanged.
+
+WHAT HAS BEEN TESTED
+The developer has played New Game through Lavender Town on earlier builds, partly on a real 3DS. On a real 3DS the Johto Gym Leaders' presence and level scaling and Morty's battle have been confirmed. Everything else in the list above has only had small emulator checks on prepared test saves and is not confirmed on hardware. Everything after Lavender and most of Johto has never been played through in one go.
+
+KNOWN ISSUES
+- The top screen can turn black in the overworld (a save and reload fixes it).
+- Some move descriptions on the summary screen's Moves page are cut off at the right edge.
+- Two red-screen crashes were each reported once on a real 3DS and could not be reproduced: falling off the path on the way out of the Ecruteak Gym, and opening the Pokémon menu.
+- The new wild Pokémon, the League shop, the evolution changes and the Form Trader have only had small emulator tests on prepared saves; most of the 34 forms were never tried. Wild Pokémon levels in Johto are not scaled by badges yet.
+- Many of the added Gen 5-9 items still show a "?" icon in the bag.
+- The Lavender Town building with the Pokémon Tower door still looks like the Radio Tower from outside.
+- Johto is unfinished.
+
+Public files are patches and documentation only. No ROM, save or game file is distributed; you must supply your own legally obtained game. The source needed to rebuild this version (tools, data, notes, BUILDING.md, development documents) is at https://github.com/Doctor-Pokemon/corvus-workshop/tree/publish-0200/psyduck-yellow/source. Credits: BluRosie/hg-engine, the pret projects, RomPatcher.js (see HG-ENGINE-CREDITS.md and LICENSE.txt in this folder).
