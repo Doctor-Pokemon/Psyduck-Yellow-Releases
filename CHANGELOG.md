@@ -2,6 +2,14 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 0.1 (pre-release) — November 12, 2026
+**All features may not be in final version.**
+- Legendary Pokémon can now be obtained. After your first Hall of Fame, Celebi waits at the Ilex Forest shrine, Regirock in Union Cave, Regice on the deepest floor of the Ice Path, Registeel in Mt. Mortar, Uxie outside the Ruins of Alph, Mesprit at the Lake of Rage and Azelf in Union Cave, each once you own enough Johto badges and only while that species is not yet registered as caught.
+- Mr. Pokémon now gives both the Blue Orb and the Red Orb. With the Red Orb in your bag, the orb in the Embedded Tower (the chamber behind the lower door on Route 47) summons one legendary Pokémon per day (a new one each weekday): it appears as its own follower sprite, walks up to you, and the battle starts when it touches you. Mew and Arceus can only appear once nearly all other Pokémon are registered as caught.
+- Added a Card Album key item with Gym Leader and Elite Four cards (Kanto and Johto) in three rarities. The card texts are placeholders.
+- Lorelei and Agatha have their own battle and overworld sprites, and the Kanto Elite Four speak their Pokémon Yellow lines.
+- Trainers' Pokémon no longer come out of Cherish Balls, and the Johto Gym Leaders no longer mention badges unlocking HM field moves (the HMs now come from the Kanto leaders).
+
 ## BETA 0.2.1.0 (prototype 0210) — November 11, 2026
 **All features may not be in final version.**
 - Added Hisuian Forms to Form Trader NPC.
