@@ -2,6 +2,10 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## BETA 0.2.0.1 (prototype 0201) — November 11, 2026
+**All features may not be in final version.**
+- Added Hisuian Forms to Form Trader NPC.
+
 ## BETA 0.2.0.0 (prototype 0200) — November 11, 2026
 **All features may not be in final version.**
 - **Johto postgame, further along:** the first Johto scenes (Elm's lab, the New Bark Town and Route 29 gate scenes) were repaired; a Johto Gym Leader is always in the gym until you have beaten him, and the postgame weekday schedule applies afterwards; Johto Gym Leaders' teams scale with your Johto badges; the S.S. Aqua ferry and its lost-granddaughter quest follow HeartGold's own flow.

@@ -1,0 +1,31 @@
+Pokemon Psyduck Yellow - BETA 0.2.0.1 (prototype 0201) BETA - November 11, 2026
+
+*** ALL FEATURES MAY NOT BE IN FINAL VERSION. ***
+*** BETA, FOR TESTING ONLY. NOT A COMPLETE GAME. ***
+The Kanto campaign (Pallet Town to your first Hall of Fame) is built, and more of the Johto postgame is built too, but Johto as a whole is UNFINISHED and has not been played through.
+
+HOW TO PLAY
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-0201/index.html
+2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
+3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow 0-2-0-1.nds") and load it in your DS emulator.
+4. Start a NEW GAME. Saves from older prototypes do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 7cf3cc5c762ddb5481a19e67e1e23bbce8f398853e9bcb3bbde0d9887a79b46c
+
+WHAT IS NEW SINCE 0.2.0.0
+- Replaces BETA 0.2.0.0. Everything from 0.2.0.0 is still here. All features may not be in final version.
+- Added Hisuian Forms to Form Trader NPC.
+- The save layout is unchanged.
+
+WHAT HAS BEEN TESTED
+The developer has played New Game through Lavender Town on earlier builds, partly on a real 3DS. On a real 3DS the Johto Gym Leaders' presence and level scaling and Morty's battle have been confirmed, and one Form Trader swap (Typhlosion to Hisuian Typhlosion). Everything else has only had small emulator checks on prepared test saves and is not confirmed on hardware. Everything after Lavender and most of Johto has never been played through in one go.
+
+KNOWN ISSUES
+- The top screen can turn black in the overworld (a save and reload fixes it).
+- Some move descriptions on the summary screen's Moves page are cut off at the right edge.
+- Two red-screen crashes were each reported once on a real 3DS and could not be reproduced: falling off the path on the way out of the Ecruteak Gym, and opening the Pokémon menu.
+- The new wild Pokémon, the League shop, the evolution changes and the Form Trader have only had small emulator tests on prepared saves; most of the forms the Form Trader offers were never tried. Wild Pokémon levels in Johto are not scaled by badges yet.
+- Many of the added Gen 5-9 items still show a "?" icon in the bag.
+- The Lavender Town building with the Pokémon Tower door still looks like the Radio Tower from outside.
+- Johto is unfinished.
+
+Public files are patches and documentation only. No ROM, save or game file is distributed; you must supply your own legally obtained game. The source needed to rebuild this version (tools, data, notes, BUILDING.md, development documents) is at https://github.com/Doctor-Pokemon/corvus-workshop/tree/publish-0201/psyduck-yellow/source. Credits: BluRosie/hg-engine, the pret projects, RomPatcher.js (see HG-ENGINE-CREDITS.md and LICENSE.txt in this folder).
