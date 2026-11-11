@@ -9,7 +9,7 @@ HOW TO PLAY
 2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
 3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow 0-2-1-0.nds") and load it in your DS emulator.
 4. Start a NEW GAME. Saves from older prototypes do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
-Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 7cf3cc5c762ddb5481a19e67e1e23bbce8f398853e9bcb3bbde0d9887a79b46c
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 26129394d6f709463b6bfc3aee1cc9954e7988af1c19ca4c2ac75264be389f90
 
 WHAT IS NEW SINCE 0.2.0.0
 - Replaces BETA 0.2.0.0. Everything from 0.2.0.0 is still here. All features may not be in final version.
