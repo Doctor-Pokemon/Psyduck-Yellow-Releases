@@ -1,0 +1,39 @@
+Pokemon Psyduck Yellow - ALPHA 0.1 (pre-release) - November 12, 2026
+
+*** ALL FEATURES MAY NOT BE IN FINAL VERSION. ***
+*** PRE-RELEASE: STILL IN THE LATE STAGES OF TESTING, BUT SO FAR IT SEEMS TO BE COMPLETE. ***
+If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+The Kanto campaign (Pallet Town to your first Hall of Fame) is built, and the Johto postgame is in progress but UNFINISHED and has not been played through.
+
+HOW TO PLAY
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha01/index.html
+2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
+3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow ALPHA 0-1.nds") and load it in your DS emulator.
+4. Start a NEW GAME. Saves from older versions do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 2872a44f70ae015bc798a237007f92e4ca4772b058b00d8d2c9a9fd1a445ba88
+
+WHAT IS NEW SINCE 0.2.1.0
+- Replaces BETA 0.2.1.0. Everything from 0.2.1.0 is still here. All features may not be in final version.
+- Legendary Pokémon can now be obtained. After your first Hall of Fame, Celebi waits at the Ilex Forest shrine, Regirock in Union Cave, Regice on the deepest floor of the Ice Path, Registeel in Mt. Mortar, Uxie outside the Ruins of Alph, Mesprit at the Lake of Rage and Azelf in Union Cave, each once you own enough Johto badges and only while that species is not yet registered as caught.
+- Mr. Pokémon now gives both the Blue Orb and the Red Orb. With the Red Orb in your bag, the orb in the Embedded Tower (the chamber behind the lower door on Route 47) summons one legendary Pokémon per day (a new one each weekday): it appears as its own follower sprite, walks up to you, and the battle starts when it touches you. Mew and Arceus can only appear once nearly all other Pokémon are registered as caught.
+- Added a Card Album key item with Gym Leader and Elite Four cards (Kanto and Johto) in three rarities. The card texts are placeholders.
+- Lorelei and Agatha have their own battle and overworld sprites, and the Kanto Elite Four speak their Pokémon Yellow lines.
+- Trainers' Pokémon no longer come out of Cherish Balls, and the Johto Gym Leaders no longer mention badges unlocking HM field moves (the HMs now come from the Kanto leaders).
+- The save layout is unchanged.
+
+WHAT HAS BEEN TESTED
+The developer has played New Game through Lavender Town on earlier builds, partly on a real 3DS, and the Kanto league and first Hall of Fame on hardware. The new legendary spots, the daily encounter, the Card Album and the other additions in this version have only had small emulator checks on prepared test saves and are not confirmed on hardware. Everything after Lavender and most of Johto has never been played through in one go.
+
+KNOWN ISSUES
+- Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end.
+- The battle music of the daily Embedded Tower encounter was set up through the game engine but has not been confirmed by ear.
+- Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto.
+- The top screen can turn black in the overworld (a save and reload fixes it).
+- Some move descriptions on the summary screen's Moves page are cut off at the right edge.
+- Two red-screen crashes were each reported once on a real 3DS and could not be reproduced: falling off the path on the way out of the Ecruteak Gym, and opening the Pokémon menu.
+- Many of the added Gen 5-9 items still show a "?" icon in the bag.
+- The Lavender Town building with the Pokémon Tower door still looks like the Radio Tower from outside.
+- Johto is unfinished.
+
+Public files are patches and documentation only. No ROM, save or game file is distributed; you must supply your own legally obtained game. The source needed to rebuild this version (tools, data, notes, BUILDING instructions) is at https://github.com/Doctor-Pokemon/corvus-workshop/tree/publish-alpha01/psyduck-yellow/source.
