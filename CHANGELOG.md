@@ -9,6 +9,7 @@ All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project th
 - Added a Card Album key item with Gym Leader and Elite Four cards (Kanto and Johto) in three rarities. The card texts are placeholders.
 - Lorelei and Agatha have their own battle and overworld sprites, and the Kanto Elite Four speak their Pokémon Yellow lines.
 - Fixed a freeze: the battle against Lorelei (and the one against Agatha) in the Kanto Elite Four never started on emulators and crashed on a 3DS.
+- Fixed the abilities of the new Eeveelutions and of Novareon: they showed impossible ability numbers and the wrong second and hidden abilities; they now have their intended abilities.
 - The Jade Orb can be obtained again: after you have caught both Kyogre and Groudon in the Embedded Tower, Professor Oak gives it to you, and it now opens the way to Rayquaza. The orb in the Embedded Tower now works in all three chambers.
 - The player's PC Item Storage now starts empty on a New Game (no starting items, evolution items or charms), and Fly can no longer be used until you have the Thunder Badge (the Fly HM still comes from Lt. Surge).
 - Trainers' Pokémon no longer come out of Cherish Balls, and the Johto Gym Leaders no longer mention badges unlocking HM field moves (the HMs now come from the Kanto leaders).
