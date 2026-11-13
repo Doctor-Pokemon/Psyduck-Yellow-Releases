@@ -4,7 +4,6 @@ All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project th
 
 ## ALPHA 0.2.2 (pre-release) — November 13, 2026
 **All features may not be in final version.**
-- Z-Moves (Johto postgame): after the credits, Mom gives you the Z-Ring. A Pokémon holding a Z-Crystal can use one Z-Move per battle: press the extra button beside CANCEL on the move menu, then pick a damaging move. It becomes the Z-Move of that move's type, never misses, and its power is worked out from the move you picked. Each of the eight Johto Gym Leaders gives one Z-Crystal, and the other ten are sold by the quiet man at the top-right stall outside the Johto Safari Zone gate. Z-Move side effects and animations are basic for now, and the Z-Crystal prices are a guess.
 - The Silph Co. Field Kit now covers more: with the Kit in your bag and the right Badge, Surf, Rock Climb, Waterfall and Whirlpool work without a Pokémon that knows the move (Cut, Rock Smash and Strength already did). Its lines no longer name your Pokémon ("Field Kit used Strength!").
 - Added a Taxi Pager key item: Lt. Surge gives it to you, once, with the Thunder Badge. Using it from the bag opens the Fly map and your lead Pokémon flies you there (a Corviknight shows in the Fly animation). Its texts are placeholders.
 - The Magnet Train Pass can be earned: winning the Kanto League now switches the Power Plant on, then the Copycat in Saffron City (her Clefairy doll, found through the woman in the Vermilion Pokémon Fan Club) gives you the Pass.

@@ -7,7 +7,7 @@ If you run into any problem, please let us know by submitting an official Issue 
 The Kanto campaign (Pallet Town to your first Hall of Fame) is built, and the Johto postgame is in progress but UNFINISHED and has not been played through.
 
 HOW TO PLAY
-1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha022/index.html
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha022b/index.html
 2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
 3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow ALPHA 0-2-2.nds") and load it in your DS emulator.
 4. Start a NEW GAME. Saves from older versions do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
@@ -15,7 +15,6 @@ Nothing is uploaded; the patching happens in your browser and every step is hash
 
 WHAT IS NEW SINCE ALPHA 0.1
 - Replaces ALPHA 0.1. Everything from ALPHA 0.1 is still here. All features may not be in final version.
-- Z-Moves (Johto postgame): after the credits, Mom gives you the Z-Ring. A Pokémon holding a Z-Crystal can use one Z-Move per battle: press the extra button beside CANCEL on the move menu, then pick a damaging move. It becomes the Z-Move of that move's type, never misses, and its power is worked out from the move you picked. Each of the eight Johto Gym Leaders gives one Z-Crystal, and the other ten are sold by the quiet man at the top-right stall outside the Johto Safari Zone gate. Z-Move side effects and animations are basic for now, and the Z-Crystal prices are a guess.
 - The Silph Co. Field Kit now covers more: with the Kit in your bag and the right Badge, Surf, Rock Climb, Waterfall and Whirlpool work without a Pokémon that knows the move (Cut, Rock Smash and Strength already did). Its lines no longer name your Pokémon ("Field Kit used Strength!").
 - Added a Taxi Pager key item: Lt. Surge gives it to you, once, with the Thunder Badge. Using it from the bag opens the Fly map and your lead Pokémon flies you there (a Corviknight shows in the Fly animation). Its texts are placeholders.
 - The Magnet Train Pass can be earned: winning the Kanto League now switches the Power Plant on, then the Copycat in Saffron City (her Clefairy doll, found through the woman in the Vermilion Pokémon Fan Club) gives you the Pass.
@@ -25,10 +24,9 @@ WHAT IS NEW SINCE ALPHA 0.1
 - The save layout is unchanged.
 
 WHAT HAS BEEN TESTED
-The developer has played New Game through Lavender Town on earlier builds, partly on a real 3DS, and the Kanto league and first Hall of Fame on hardware. The Z-Moves, the Field Kit and Taxi Pager changes, the Magnet Train Pass, the Steven and Latios scenes and the other additions in this version have only had small emulator checks on prepared test saves and are not confirmed on hardware. Everything after Lavender and most of Johto has never been played through in one go.
+The developer has played New Game through Lavender Town on earlier builds, partly on a real 3DS, and the Kanto league and first Hall of Fame on hardware. The Field Kit and Taxi Pager changes, the Magnet Train Pass, the Steven and Latios scenes and the other additions in this version have only had small emulator checks on prepared test saves and are not confirmed on hardware. Everything after Lavender and most of Johto has never been played through in one go.
 
 KNOWN ISSUES
-- Z-Move side effects and animations are basic, a few Z-Moves with special rules (for example Weather Ball) use a plain power, and the Z-Crystal prices and several Taxi Pager and Z-Ring texts are placeholders.
 - The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through.
 - Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end.
 - Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto.
