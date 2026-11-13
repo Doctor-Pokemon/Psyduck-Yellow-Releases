@@ -2,6 +2,16 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 0.2.2 (pre-release) — November 13, 2026
+**All features may not be in final version.**
+- Z-Moves (Johto postgame): after the credits, Mom gives you the Z-Ring. A Pokémon holding a Z-Crystal can use one Z-Move per battle: press the extra button beside CANCEL on the move menu, then pick a damaging move. It becomes the Z-Move of that move's type, never misses, and its power is worked out from the move you picked. Each of the eight Johto Gym Leaders gives one Z-Crystal, and the other ten are sold by the quiet man at the top-right stall outside the Johto Safari Zone gate. Z-Move side effects and animations are basic for now, and the Z-Crystal prices are a guess.
+- The Silph Co. Field Kit now covers more: with the Kit in your bag and the right Badge, Surf, Rock Climb, Waterfall and Whirlpool work without a Pokémon that knows the move (Cut, Rock Smash and Strength already did). Its lines no longer name your Pokémon ("Field Kit used Strength!").
+- Added a Taxi Pager key item: Lt. Surge gives it to you, once, with the Thunder Badge. Using it from the bag opens the Fly map and your lead Pokémon flies you there (a Corviknight shows in the Fly animation). Its texts are placeholders.
+- The Magnet Train Pass can be earned: winning the Kanto League now switches the Power Plant on, then the Copycat in Saffron City (her Clefairy doll, found through the woman in the Vermilion Pokémon Fan Club) gives you the Pass.
+- Steven Stone is back in the Pewter Museum and in Pewter City. The Hiker at the Embedded Tower entrance on Route 47 gives you an Enigma Stone; with it, the museum plays Steven's Enigma Stone scene, and afterwards Steven and Latios wait outside the museum in Pewter City. Latios can be battled (level 60 plus 5 for every Johto Badge) and caught. This chain has not been played through in order.
+- The Vs. Recorder is back as a normal item, and the Card Album has its own key item.
+- Fixed a softlock at the Olivine S.S. Aqua gate (a Professor Oak scene walked you out of the room) and one on the return ferry (talking to the sailor in the Vermilion port hall froze the game). Repaired eight NPC, sign and trigger scripts in six Kanto maps that ran another character's script.
+
 ## ALPHA 0.1 (pre-release) — November 12, 2026
 **All features may not be in final version.**
 - Legendary Pokémon can now be obtained. After your first Hall of Fame, Celebi waits at the Ilex Forest shrine, Regirock in Union Cave, Regice on the deepest floor of the Ice Path, Registeel in Mt. Mortar, Uxie outside the Ruins of Alph, Mesprit at the Lake of Rage and Azelf in Union Cave, each once you own enough Johto badges and only while that species is not yet registered as caught.
