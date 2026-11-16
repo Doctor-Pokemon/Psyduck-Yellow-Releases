@@ -3,7 +3,7 @@
 Downloads for **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold (starting Psyduck / Togepi / Eevee, and more).
 
 > ## ⚠️ BETA — FOR TESTING ONLY
-> The newest release (**ALPHA 1.0**) is a pre-release, still in the late stages of testing, but so far it seems to be complete. *All features may not be in final version.* If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+> The newest release (**ALPHA 1.0**) is a pre-release, still in the late stages of testing, and complete apart from visual polish. *All features may not be in final version.* If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
 > The **Kanto campaign (Pallet Town to your first Hall of Fame)** is built, and **more of the Johto postgame** is in,
 > but **Johto is unfinished and has not been played through.** Expect bugs, including softlocks.
 
@@ -32,7 +32,7 @@ Psyduck Yellow retells **Pokémon Yellow's Kanto story inside Pokémon HeartGold
 
 
 ## Play it
-1. Open the latest page from the [Releases](../../releases) section (or the [hosted ALPHA 1.0 patching page](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha10/index.html)).
+1. Open the latest page from the [Releases](../../releases) section (or the [hosted ALPHA 1.0 patching page](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha10b/index.html)).
 2. Select your **own, original, unmodified USA HeartGold `.nds`**.
 3. Click *Create my playable NDS*, wait for verification, then download it and load it in your DS emulator.
 4. Start a **New Game**. Saves from older prototypes are not supported.
@@ -55,7 +55,7 @@ This is an unofficial fan project. It is not affiliated with or endorsed by Nint
 - Pokémon Yellow's data and layout reference from the [pret/pokeyellow](https://github.com/pret/pokeyellow) disassembly
 
 ## Release history (newest first)
-- **ALPHA 1.0 — November 16, 2026 (pre-release).** All features may not be in final version. Jesse and James double battles and farewell, Pokémon Talk hosted by Meowth, stock Cinnabar with Giovanni, fossil revival in the Pewter Museum, more legendary Pokémon, crash fixes; still in the late stages of testing, but so far it seems to be complete. Kanto and the Johto postgame both reach a Hall of Fame.
+- **ALPHA 1.0 — November 16, 2026 (pre-release).** All features may not be in final version. Jesse and James double battles and farewell, Pokémon Talk hosted by Meowth, stock Cinnabar with Giovanni, fossil revival in the Pewter Museum, more legendary Pokémon, crash fixes; still in the late stages of testing, and complete apart from visual polish. Kanto and the Johto postgame both reach a Hall of Fame.
 - **ALPHA 0.2.2 — November 13, 2026 (pre-release).** All features may not be in final version. A stronger Field Kit, a Taxi Pager for Fly, the Magnet Train Pass, Steven Stone and Latios in Pewter, softlock fixes; still in the late stages of testing, but so far it seems to be complete. Kanto complete to the first Hall of Fame; Johto unfinished.
 - **ALPHA 0.1 — November 12, 2026 (pre-release).** All features may not be in final version. Legendary Pokémon features (with the Jade Orb), Card Album, Elite Four updates, an empty starting PC, Fly gated by the Thunder Badge and bug fixes; still in the late stages of testing, but so far it seems to be complete. Kanto complete to the first Hall of Fame; Johto unfinished.
 - **BETA 0.2.1.0 (prototype 0210) — November 11, 2026 (beta, testing only).** All features may not be in final version. Added Hisuian Forms to Form Trader NPC. Kanto complete to the first Hall of Fame; Johto unfinished.

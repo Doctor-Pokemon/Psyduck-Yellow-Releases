@@ -1471,9 +1471,9 @@ Known issues: The Pewter City scenes with Steven and Latios, the Magnet Train ri
 
 ## November 16, 2026 — ALPHA 1.0 (pre-release)
 
-**All features may not be in final version. PRE-RELEASE: still in the late stages of testing, but so far it seems to be complete.**
+**All features may not be in final version. PRE-RELEASE: still in the late stages of testing, and complete apart from visual polish.**
 
-[Create ALPHA 1.0](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha10/index.html). It builds from your original USA HeartGold file in your browser; nothing is uploaded. The finished game is named "Pokemon Psyduck Yellow ALPHA 1-0.nds". If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+[Create ALPHA 1.0](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha10b/index.html). It builds from your original USA HeartGold file in your browser; nothing is uploaded. The finished game is named "Pokemon Psyduck Yellow ALPHA 1-0.nds". If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
 
 What changed since ALPHA 0.2.2:
 - Jesse and James of Team Rocket are real two-trainer double battles: at Mt. Moon after the fossil ambush, in the Celadon Rocket Hideout, in the Pokémon Tower, in a new scene on Silph Co.'s 11th floor, and in the Viridian Gym (where they stand in for Giovanni, with TM46 Thief as the reward). Their sprites, names and teams follow Yellow.

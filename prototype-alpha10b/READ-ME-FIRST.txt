@@ -1,13 +1,13 @@
 Pokemon Psyduck Yellow - ALPHA 1.0 (pre-release) - November 16, 2026
 
 *** ALL FEATURES MAY NOT BE IN FINAL VERSION. ***
-*** PRE-RELEASE: STILL IN THE LATE STAGES OF TESTING, BUT SO FAR IT SEEMS TO BE COMPLETE. ***
+*** PRE-RELEASE: STILL IN THE LATE STAGES OF TESTING, AND COMPLETE APART FROM VISUAL POLISH. ***
 If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
 
 The Kanto campaign (Pallet Town to your first Hall of Fame) and the Johto postgame (to the second Hall of Fame) are built. This is a pre-release and may still contain bugs.
 
 HOW TO PLAY
-1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha10/index.html
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha10b/index.html
 2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
 3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow ALPHA 1-0.nds") and load it in your DS emulator.
 4. Start a NEW GAME. Saves from older versions do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
