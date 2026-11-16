@@ -3,7 +3,7 @@
 A plain-language guide to what has changed, what you can play now, and what is
 still being built. Share this page with anyone following the project.
 
-**Last updated: November 13, 2026.**
+**Last updated: November 16, 2026.**
 
 [Watch LIVE testing with video and audio]()
 
@@ -1467,3 +1467,24 @@ What changed since ALPHA 0.1:
 - Not changed: the save layout.
 
 Known issues: The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through. Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end. Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto. The top screen can turn black in the overworld (a save and reload fixes it). Some move descriptions on the summary screen's Moves page are cut off at the right edge. Two red-screen crashes were each reported once on a real 3DS and could not be reproduced: falling off the path on the way out of the Ecruteak Gym, and opening the Pokémon menu. Many of the added Gen 5-9 items still show a "?" icon in the bag. The Lavender Town building with the Pokémon Tower door still looks like the Radio Tower from outside. Johto is unfinished.
+
+
+## November 16, 2026 — ALPHA 1.0 (pre-release)
+
+**All features may not be in final version. PRE-RELEASE: still in the late stages of testing, but so far it seems to be complete.**
+
+[Create ALPHA 1.0](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha10/index.html). It builds from your original USA HeartGold file in your browser; nothing is uploaded. The finished game is named "Pokemon Psyduck Yellow ALPHA 1-0.nds". If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+What changed since ALPHA 0.2.2:
+- Jesse and James of Team Rocket are real two-trainer double battles: at Mt. Moon after the fossil ambush, in the Celadon Rocket Hideout, in the Pokémon Tower, in a new scene on Silph Co.'s 11th floor, and in the Viridian Gym (where they stand in for Giovanni, with TM46 Thief as the reward). Their sprites, names and teams follow Yellow.
+- A farewell scene with Jesse, James and Meowth now plays at the Indigo Plateau after you hold all sixteen Badges and before the second Hall of Fame. Afterwards the Meowth in the Goldenrod Radio Tower studio hosts Pokémon Talk, with its own intros, segments and a few special guests.
+- Cinnabar Island is HeartGold's ruined island for the whole game, and after your first Hall of Fame Giovanni waits there. Blaine's Gym is back inside the Seafoam Islands cave.
+- The Pewter Museum scientists revive fossils again: HeartGold's own scientist handles the Kanto fossils, and a second scientist revives Cover, Plume, Jaw and Sail Fossils and the Fossilized Bird, Fish, Drake and Dino pairs.
+- More legendary and mythical Pokémon can be found in the Embedded Tower, Cresselia and Shaymin have their own spots, and the Pokédex Area page now shows where the added wild Pokémon live.
+- The Johto Gym Leaders and Elite Four have new, tougher teams.
+- The Celadon Department Store sells TM Trick Room, and HMs are no longer sold in shops.
+- Fixed a red-screen crash at the Johto Hall of Fame on a real 3DS, and a field-menu bug that appeared after the Rocket farewell scene.
+- Fixed the earlier known issues: the top screen turning black in the overworld, move descriptions cut off on the summary screen, the red-screen crashes in the Ecruteak Gym path and the Pokémon menu, and the Lavender Town building looking like the Radio Tower.
+- Not changed: the save layout.
+
+Known issues: Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto. Many of the added Gen 5-9 items still show a "?" icon in the bag. Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end. The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through.

@@ -2,6 +2,18 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 1.0 (pre-release) — November 16, 2026
+**All features may not be in final version.**
+- Jesse and James of Team Rocket are real two-trainer double battles: at Mt. Moon after the fossil ambush, in the Celadon Rocket Hideout, in the Pokémon Tower, in a new scene on Silph Co.'s 11th floor, and in the Viridian Gym (where they stand in for Giovanni, with TM46 Thief as the reward). Their sprites, names and teams follow Yellow.
+- A farewell scene with Jesse, James and Meowth now plays at the Indigo Plateau after you hold all sixteen Badges and before the second Hall of Fame. Afterwards the Meowth in the Goldenrod Radio Tower studio hosts Pokémon Talk, with its own intros, segments and a few special guests.
+- Cinnabar Island is HeartGold's ruined island for the whole game, and after your first Hall of Fame Giovanni waits there. Blaine's Gym is back inside the Seafoam Islands cave.
+- The Pewter Museum scientists revive fossils again: HeartGold's own scientist handles the Kanto fossils, and a second scientist revives Cover, Plume, Jaw and Sail Fossils and the Fossilized Bird, Fish, Drake and Dino pairs.
+- More legendary and mythical Pokémon can be found in the Embedded Tower, Cresselia and Shaymin have their own spots, and the Pokédex Area page now shows where the added wild Pokémon live.
+- The Johto Gym Leaders and Elite Four have new, tougher teams.
+- The Celadon Department Store sells TM Trick Room, and HMs are no longer sold in shops.
+- Fixed a red-screen crash at the Johto Hall of Fame on a real 3DS, and a field-menu bug that appeared after the Rocket farewell scene.
+- Fixed the earlier known issues: the top screen turning black in the overworld, move descriptions cut off on the summary screen, the red-screen crashes in the Ecruteak Gym path and the Pokémon menu, and the Lavender Town building looking like the Radio Tower.
+
 ## ALPHA 0.2.2 (pre-release) — November 13, 2026
 **All features may not be in final version.**
 - The Silph Co. Field Kit now covers more: with the Kit in your bag and the right Badge, Surf, Rock Climb, Waterfall and Whirlpool work without a Pokémon that knows the move (Cut, Rock Smash and Strength already did). Its lines no longer name your Pokémon ("Field Kit used Strength!").
