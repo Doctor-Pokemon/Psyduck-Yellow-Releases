@@ -1,0 +1,35 @@
+Pokemon Psyduck Yellow - ALPHA 1.1 (pre-release) - November 18, 2026
+
+*** ALL FEATURES MAY NOT BE IN FINAL VERSION. ***
+*** PRE-RELEASE: STILL IN THE LATE STAGES OF TESTING, AND COMPLETE APART FROM VISUAL POLISH. ***
+If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+The Kanto campaign (Pallet Town to your first Hall of Fame) and the Johto postgame (to the second Hall of Fame) are built. This is a pre-release and may still contain bugs.
+
+HOW TO PLAY
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha11/index.html
+2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
+3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow ALPHA 1-1.nds") and load it in your DS emulator.
+4. Start a NEW GAME. Saves from older versions do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 8b66ca75d06c299b2f50ba6d0399cf0b3712d4daa6592d9a83d937ecd6a8f83f
+
+WHAT IS NEW SINCE ALPHA 1.0
+- Replaces ALPHA 1.0. Everything from ALPHA 1.0 is still here. All features may not be in final version.
+- The Kanto Gym Leaders now give out the ingredients for the Stellar Sandwich, one each with their badge: Brock and Surge give Canari Bread, Misty Salty Herba Mystica, Erika Sweet Herba Mystica, Janine Sour Herba Mystica, Sabrina the Stellar Tera Shard, Blaine Spicy Herba Mystica, and Jesse and James in the Viridian Gym the Bitter Herba Mystica.
+- The Player's PC in every Pokémon Center now has the same Item Storage as the PC in your bedroom.
+- More later-game items now have proper bag icons, including the Herba Mystica, the Stellar Tera Shard, Canari Bread, the Tera Shards, the Hyper berries and the Mochi. Item pictures come from the Serebii.net Item Dex and from PKHeX's item artwork (PKHeX is GPLv3; the credits are in the source).
+- Fixed a freeze when you answered No to "Would you like to use another Repel?" (it showed up in the Pal Park, but happened anywhere).
+- Fixed Technical Machines that could not be picked up while you already held the same one: you can now pick up a second copy.
+- The save layout is unchanged.
+
+WHAT HAS BEEN TESTED
+The developer has played New Game through the Kanto league and first Hall of Fame, and the Johto league and second Hall of Fame, partly on a real 3DS, and has seen the Rocket farewell scene, Pokémon Talk and Giovanni on Cinnabar. The new items in this version (ingredient gifts, Center PC item storage, icons, the Repel fix and the TM pickup fix) have had small emulator checks on prepared test saves and are not confirmed on hardware. The museum fossil scientists, the legendary encounters and the other items listed under known issues have also only had small emulator checks. Expect bugs, including possible softlocks.
+
+KNOWN ISSUES
+- Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto.
+- Many of the added Gen 5-9 items still show a "?" icon in the bag.
+- Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end.
+- The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through.
+- The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.
+
+Public files are patches and documentation only. No ROM, save or game file is distributed; you must supply your own legally obtained game. The source needed to rebuild this version (tools, data, notes, BUILDING instructions) is at https://github.com/Doctor-Pokemon/corvus-workshop/tree/publish-alpha11/psyduck-yellow/source.

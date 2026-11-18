@@ -2,6 +2,14 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 1.1 (pre-release) — November 18, 2026
+**All features may not be in final version.**
+- The Kanto Gym Leaders now give out the ingredients for the Stellar Sandwich, one each with their badge: Brock and Surge give Canari Bread, Misty Salty Herba Mystica, Erika Sweet Herba Mystica, Janine Sour Herba Mystica, Sabrina the Stellar Tera Shard, Blaine Spicy Herba Mystica, and Jesse and James in the Viridian Gym the Bitter Herba Mystica.
+- The Player's PC in every Pokémon Center now has the same Item Storage as the PC in your bedroom.
+- More later-game items now have proper bag icons, including the Herba Mystica, the Stellar Tera Shard, Canari Bread, the Tera Shards, the Hyper berries and the Mochi. Item pictures come from the Serebii.net Item Dex and from PKHeX's item artwork (PKHeX is GPLv3; the credits are in the source).
+- Fixed a freeze when you answered No to "Would you like to use another Repel?" (it showed up in the Pal Park, but happened anywhere).
+- Fixed Technical Machines that could not be picked up while you already held the same one: you can now pick up a second copy.
+
 ## ALPHA 1.0 (pre-release) — November 16, 2026
 **All features may not be in final version.**
 - Jesse and James of Team Rocket are real two-trainer double battles: at Mt. Moon after the fossil ambush, in the Celadon Rocket Hideout, in the Pokémon Tower, in a new scene on Silph Co.'s 11th floor, and in the Viridian Gym (where they stand in for Giovanni, with TM46 Thief as the reward). Their sprites, names and teams follow Yellow.
