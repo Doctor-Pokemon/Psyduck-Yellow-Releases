@@ -2,6 +2,10 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 1.6 (pre-release) — November 22, 2026
+**All features may not be in final version.**
+- The game's second copies of the N-Solarizer, N-Lunarizer and Reins of Unity (the ones listed as "separate" items, which a save that was edited by hand can hold) now work exactly like the first ones: fuse and split, with the same description.
+
 ## ALPHA 1.5 (pre-release) — November 22, 2026
 **All features may not be in final version.**
 - The **N-Solarizer**, **N-Lunarizer** and **Reins of Unity** now work, like the DNA Splicers do for Kyurem. From the Bag, use the N-Solarizer on a Necrozma while a Solgaleo is in your party, the N-Lunarizer on a Necrozma with a Lunala, or the Reins of Unity on a Calyrex with a Glastrier or Spectrier: the two fuse into one Pokémon and the partner is kept safe in your save. Use the same item on the fused Pokémon (with a free party slot) to split them again and get the partner back.
