@@ -1,0 +1,36 @@
+Pokemon Psyduck Yellow - ALPHA 1.5 (pre-release) - November 22, 2026
+
+*** ALL FEATURES MAY NOT BE IN FINAL VERSION. ***
+*** PRE-RELEASE: STILL IN THE LATE STAGES OF TESTING, AND COMPLETE APART FROM VISUAL POLISH. ***
+If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+The Kanto campaign (Pallet Town to your first Hall of Fame) and the Johto postgame (to the second Hall of Fame) are built. This is a pre-release and may still contain bugs.
+
+HOW TO PLAY
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha15/index.html
+2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
+3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow ALPHA 1-5.nds") and load it in your DS emulator.
+4. Start a NEW GAME. Saves from older versions do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 1bd97bc0ebb6350df91a12d1885c897bdd19f4698e11f8fbb108ec2ae9949e4c
+
+WHAT IS NEW SINCE ALPHA 1.4
+- Replaces ALPHA 1.4. Everything from ALPHA 1.4 is still here. All features may not be in final version.
+- The N-Solarizer, N-Lunarizer and Reins of Unity now work, like the DNA Splicers do for Kyurem. From the Bag, use the N-Solarizer on a Necrozma while a Solgaleo is in your party, the N-Lunarizer on a Necrozma with a Lunala, or the Reins of Unity on a Calyrex with a Glastrier or Spectrier: the two fuse into one Pokémon and the partner is kept safe in your save. Use the same item on the fused Pokémon (with a free party slot) to split them again and get the partner back.
+- The Oak's Lab aide now also hands out the N-Solarizer (Necrozma and Solgaleo caught), the N-Lunarizer (Necrozma and Lunala caught) and the Reins of Unity (Calyrex and Glastrier or Spectrier caught), once each, like the other form-change items.
+- The DNA Splicers, Reveal Glass, Prison Bottle, N-Solarizer, N-Lunarizer and Reins of Unity now have a description in the Bag (first drafts).
+- The save layout is unchanged.
+
+WHAT HAS BEEN TESTED
+The developer has played New Game through the Kanto league and first Hall of Fame, and the Johto league and second Hall of Fame, partly on a real 3DS, and has seen the Rocket farewell scene, Pokémon Talk and Giovanni on Cinnabar. The new things in this version (fusing and splitting with the N-Solarizer, N-Lunarizer and Reins of Unity, and the aide handing them over) have had small emulator checks on prepared test saves and are not confirmed on hardware, and have not been checked across a save and reload. Expect bugs, including possible softlocks.
+
+KNOWN ISSUES
+- While two Pokémon are fused, the partner is stored in the save and shows nowhere else: do not release, trade away or deposit the fused Pokémon before splitting it. The fused forms also do not learn their signature moves on fusion yet.
+- The lines the Oak's Lab aide says when handing over the key items are first drafts.
+- Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto.
+- Many of the added Gen 5-9 items still show a "?" icon in the bag.
+- The four new fossil Pokémon and the custom Eeveelutions do not follow you in the overworld yet (their follower art is not made), and their stats, moves, Pokédex heights and weights are first drafts.
+- Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end.
+- The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through.
+- The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.
+
+Public files are patches and documentation only. No ROM, save or game file is distributed; you must supply your own legally obtained game.

@@ -2,6 +2,12 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 1.5 (pre-release) — November 22, 2026
+**All features may not be in final version.**
+- The **N-Solarizer**, **N-Lunarizer** and **Reins of Unity** now work, like the DNA Splicers do for Kyurem. From the Bag, use the N-Solarizer on a Necrozma while a Solgaleo is in your party, the N-Lunarizer on a Necrozma with a Lunala, or the Reins of Unity on a Calyrex with a Glastrier or Spectrier: the two fuse into one Pokémon and the partner is kept safe in your save. Use the same item on the fused Pokémon (with a free party slot) to split them again and get the partner back.
+- The Oak's Lab aide now also hands out the N-Solarizer (Necrozma and Solgaleo caught), the N-Lunarizer (Necrozma and Lunala caught) and the Reins of Unity (Calyrex and Glastrier or Spectrier caught), once each, like the other form-change items.
+- The DNA Splicers, Reveal Glass, Prison Bottle, N-Solarizer, N-Lunarizer and Reins of Unity now have a description in the Bag (first drafts).
+
 ## ALPHA 1.4 (pre-release) — November 22, 2026
 **All features may not be in final version.**
 - The **Prison Bottle** now works: use it from the Bag on a Hoopa and pick it in the party menu to switch it between its Confined and Unbound forms, as the Reveal Glass does for the Forces of Nature.
