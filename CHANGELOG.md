@@ -2,6 +2,14 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 1.2 (pre-release) — November 22, 2026
+**All features may not be in final version.**
+- Fixed a crash on a real 3DS when you step from Cinnabar Island onto Route 20 (the same kind of entry script in a few other maps, mostly Gym and city maps, was changed the same way).
+- Pokémon you receive as gifts now go to a PC box when your party is full, with a message after the usual "received" line. Gifts and revived fossils also ask whether you want to give the new Pokémon a nickname.
+- The second Pewter Museum scientist now lets you choose which fossil to revive, with a menu of what you can actually revive, like the first scientist.
+- Four new fossil Pokémon replace the Galar fossil revivals: the Fossilized Bird revives Raptozolt, the Fossilized Drake Dracosaur, the Fossilized Fish Dunklevish and the Fossilized Dino Arctosaur (new Pokédex pages 1036-1039, new art and icons). Their art was drawn by @MACKSFAKEMON, with thanks.
+- Rayquaza can no longer learn Dragon Ascent by levelling up or from a Move Reminder: Grandma Wilma in Blackthorn City now teaches it, to any Rayquaza in your party that does not know it. The Rayquaza in the Embedded Tower already knows Dragon Ascent.
+
 ## ALPHA 1.1 (pre-release) — November 18, 2026
 **All features may not be in final version.**
 - The Kanto Gym Leaders now give out the ingredients for the Stellar Sandwich, one each with their badge: Brock and Surge give Canari Bread, Misty Salty Herba Mystica, Erika Sweet Herba Mystica, Janine Sour Herba Mystica, Sabrina the Stellar Tera Shard, Blaine Spicy Herba Mystica, and Jesse and James in the Viridian Gym the Bitter Herba Mystica.

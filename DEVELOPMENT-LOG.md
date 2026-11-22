@@ -3,7 +3,7 @@
 A plain-language guide to what has changed, what you can play now, and what is
 still being built. Share this page with anyone following the project.
 
-**Last updated: November 18, 2026.**
+**Last updated: November 22, 2026.**
 
 [Watch LIVE testing with video and audio]()
 
@@ -1505,3 +1505,20 @@ What changed since ALPHA 1.0:
 - Not changed: the save layout.
 
 Known issues: Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto. Many of the added Gen 5-9 items still show a "?" icon in the bag. Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end. The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through. The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.
+
+
+## November 22, 2026 — ALPHA 1.2 (pre-release)
+
+**All features may not be in final version. PRE-RELEASE: still in the late stages of testing, and complete apart from visual polish.**
+
+[Create ALPHA 1.2](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha12/index.html). It builds from your original USA HeartGold file in your browser; nothing is uploaded. The finished game is named "Pokemon Psyduck Yellow ALPHA 1-2.nds". If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+What changed since ALPHA 1.1:
+- Fixed a crash on a real 3DS when you step from Cinnabar Island onto Route 20 (the same kind of entry script in a few other maps, mostly Gym and city maps, was changed the same way).
+- Pokémon you receive as gifts now go to a PC box when your party is full, with a message after the usual "received" line. Gifts and revived fossils also ask whether you want to give the new Pokémon a nickname.
+- The second Pewter Museum scientist now lets you choose which fossil to revive, with a menu of what you can actually revive, like the first scientist.
+- Four new fossil Pokémon replace the Galar fossil revivals: the Fossilized Bird revives Raptozolt, the Fossilized Drake Dracosaur, the Fossilized Fish Dunklevish and the Fossilized Dino Arctosaur (new Pokédex pages 1036-1039, new art and icons). Their art was drawn by @MACKSFAKEMON, with thanks.
+- Rayquaza can no longer learn Dragon Ascent by levelling up or from a Move Reminder: Grandma Wilma in Blackthorn City now teaches it, to any Rayquaza in your party that does not know it. The Rayquaza in the Embedded Tower already knows Dragon Ascent.
+- Not changed: the save layout.
+
+Known issues: Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto. Many of the added Gen 5-9 items still show a "?" icon in the bag. The four new fossil Pokémon and the custom Eeveelutions do not follow you in the overworld yet (their follower art is not made), and their stats, moves, Pokédex heights and weights are first drafts. Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end. The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through. The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.

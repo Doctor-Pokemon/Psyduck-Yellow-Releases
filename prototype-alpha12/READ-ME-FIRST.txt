@@ -1,0 +1,36 @@
+Pokemon Psyduck Yellow - ALPHA 1.2 (pre-release) - November 22, 2026
+
+*** ALL FEATURES MAY NOT BE IN FINAL VERSION. ***
+*** PRE-RELEASE: STILL IN THE LATE STAGES OF TESTING, AND COMPLETE APART FROM VISUAL POLISH. ***
+If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+The Kanto campaign (Pallet Town to your first Hall of Fame) and the Johto postgame (to the second Hall of Fame) are built. This is a pre-release and may still contain bugs.
+
+HOW TO PLAY
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha12/index.html
+2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
+3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow ALPHA 1-2.nds") and load it in your DS emulator.
+4. Start a NEW GAME. Saves from older versions do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 549972aaf37426a77e95a9c185673a78a5135764852ca739a4c017172ef9fa6b
+
+WHAT IS NEW SINCE ALPHA 1.1
+- Replaces ALPHA 1.1. Everything from ALPHA 1.1 is still here. All features may not be in final version.
+- Fixed a crash on a real 3DS when you step from Cinnabar Island onto Route 20 (the same kind of entry script in a few other maps, mostly Gym and city maps, was changed the same way).
+- Pokémon you receive as gifts now go to a PC box when your party is full, with a message after the usual "received" line. Gifts and revived fossils also ask whether you want to give the new Pokémon a nickname.
+- The second Pewter Museum scientist now lets you choose which fossil to revive, with a menu of what you can actually revive, like the first scientist.
+- Four new fossil Pokémon replace the Galar fossil revivals: the Fossilized Bird revives Raptozolt, the Fossilized Drake Dracosaur, the Fossilized Fish Dunklevish and the Fossilized Dino Arctosaur (new Pokédex pages 1036-1039, new art and icons). Their art was drawn by @MACKSFAKEMON, with thanks.
+- Rayquaza can no longer learn Dragon Ascent by levelling up or from a Move Reminder: Grandma Wilma in Blackthorn City now teaches it, to any Rayquaza in your party that does not know it. The Rayquaza in the Embedded Tower already knows Dragon Ascent.
+- The save layout is unchanged.
+
+WHAT HAS BEEN TESTED
+The developer has played New Game through the Kanto league and first Hall of Fame, and the Johto league and second Hall of Fame, partly on a real 3DS, and has seen the Rocket farewell scene, Pokémon Talk and Giovanni on Cinnabar. The new things in this version (gifts to the PC, nicknames, the museum choice menu, the four new fossil Pokémon, the Dragon Ascent lesson and the Embedded Tower Rayquaza) have had small emulator checks on prepared test saves and are not confirmed on hardware. The Route 20 crash only happens on a real 3DS: its fix has been checked in the emulator only and still needs a hardware test. Expect bugs, including possible softlocks.
+
+KNOWN ISSUES
+- Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto.
+- Many of the added Gen 5-9 items still show a "?" icon in the bag.
+- The four new fossil Pokémon and the custom Eeveelutions do not follow you in the overworld yet (their follower art is not made), and their stats, moves, Pokédex heights and weights are first drafts.
+- Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end.
+- The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through.
+- The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.
+
+Public files are patches and documentation only. No ROM, save or game file is distributed; you must supply your own legally obtained game. The source needed to rebuild this version (tools, data, notes, BUILDING instructions) is at https://github.com/Doctor-Pokemon/corvus-workshop/tree/publish-alpha12/psyduck-yellow/source.
