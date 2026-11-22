@@ -1,0 +1,35 @@
+Pokemon Psyduck Yellow - ALPHA 1.3 (pre-release) - November 22, 2026
+
+*** ALL FEATURES MAY NOT BE IN FINAL VERSION. ***
+*** PRE-RELEASE: STILL IN THE LATE STAGES OF TESTING, AND COMPLETE APART FROM VISUAL POLISH. ***
+If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+The Kanto campaign (Pallet Town to your first Hall of Fame) and the Johto postgame (to the second Hall of Fame) are built. This is a pre-release and may still contain bugs.
+
+HOW TO PLAY
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha13/index.html
+2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
+3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow ALPHA 1-3.nds") and load it in your DS emulator.
+4. Start a NEW GAME. Saves from older versions do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: aa2539917cb2097c95b3712430f25e47f6516564696630b36cfcee7e8b7c4230
+
+WHAT IS NEW SINCE ALPHA 1.2
+- Replaces ALPHA 1.2. Everything from ALPHA 1.2 is still here. All features may not be in final version.
+- Fixed a crash on a real 3DS in some battles with a legendary Pokémon's special in-battle form change: the small emblem next to the battle menu is no longer shown for it (the form change itself still works).
+- New key item: the Pokémon Box Link. Use it from the Bag, anywhere, to open your PC Boxes. The Oak's Lab aide gives it to you together with the Card Album.
+- The Gracidea and the Prison Bottle no longer open the Taxi Pager's flight page when you use them from the Bag. The Gracidea works on Shaymin again; the Prison Bottle opens the party menu for now, and its Hoopa form change follows in a later version.
+- The save layout is unchanged.
+
+WHAT HAS BEEN TESTED
+The developer has played New Game through the Kanto league and first Hall of Fame, and the Johto league and second Hall of Fame, partly on a real 3DS, and has seen the Rocket farewell scene, Pokémon Talk and Giovanni on Cinnabar. The new things in this version (the Pokémon Box Link and its delivery by the Oak's Lab aide, the Gracidea / Prison Bottle / Taxi Pager / Card Album Bag use) have had small emulator checks on prepared test saves and are not confirmed on hardware. The battle-menu fix was confirmed on a real 3DS in its test build; this version carries the same change. Expect bugs, including possible softlocks.
+
+KNOWN ISSUES
+- The Prison Bottle, N-Solarizer, N-Lunarizer and Reins of Unity do not change any Pokémon yet (they are being added one version at a time).
+- Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto.
+- Many of the added Gen 5-9 items still show a "?" icon in the bag.
+- The four new fossil Pokémon and the custom Eeveelutions do not follow you in the overworld yet (their follower art is not made), and their stats, moves, Pokédex heights and weights are first drafts.
+- Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end.
+- The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through.
+- The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.
+
+Public files are patches and documentation only. No ROM, save or game file is distributed; you must supply your own legally obtained game.

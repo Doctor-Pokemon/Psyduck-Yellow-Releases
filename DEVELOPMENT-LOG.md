@@ -1522,3 +1522,18 @@ What changed since ALPHA 1.1:
 - Not changed: the save layout.
 
 Known issues: Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto. Many of the added Gen 5-9 items still show a "?" icon in the bag. The four new fossil Pokémon and the custom Eeveelutions do not follow you in the overworld yet (their follower art is not made), and their stats, moves, Pokédex heights and weights are first drafts. Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end. The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through. The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.
+
+
+## November 22, 2026 — ALPHA 1.3 (pre-release)
+
+**All features may not be in final version. PRE-RELEASE: still in the late stages of testing, and complete apart from visual polish.**
+
+[Create ALPHA 1.3](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha13/index.html). It builds from your original USA HeartGold file in your browser; nothing is uploaded. The finished game is named "Pokemon Psyduck Yellow ALPHA 1-3.nds". If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+What changed since ALPHA 1.2:
+- Fixed a crash on a real 3DS in some battles with a legendary Pokémon's special in-battle form change: the small emblem next to the battle menu is no longer shown for it (the form change itself still works).
+- New key item: the **Pokémon Box Link**. Use it from the Bag, anywhere, to open your PC Boxes. The Oak's Lab aide gives it to you together with the Card Album.
+- The Gracidea and the Prison Bottle no longer open the Taxi Pager's flight page when you use them from the Bag. The Gracidea works on Shaymin again; the Prison Bottle opens the party menu for now, and its Hoopa form change follows in a later version.
+- Not changed: the save layout.
+
+Known issues: The Prison Bottle, N-Solarizer, N-Lunarizer and Reins of Unity do not change any Pokémon yet (they are being added one version at a time). Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto. Many of the added Gen 5-9 items still show a "?" icon in the bag. The four new fossil Pokémon and the custom Eeveelutions do not follow you in the overworld yet (their follower art is not made), and their stats, moves, Pokédex heights and weights are first drafts. Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end. The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through. The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.

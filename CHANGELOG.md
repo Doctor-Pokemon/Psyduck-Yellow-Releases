@@ -2,6 +2,12 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 1.3 (pre-release) — November 22, 2026
+**All features may not be in final version.**
+- Fixed a crash on a real 3DS in some battles with a legendary Pokémon's special in-battle form change: the small emblem next to the battle menu is no longer shown for it (the form change itself still works).
+- New key item: the **Pokémon Box Link**. Use it from the Bag, anywhere, to open your PC Boxes. The Oak's Lab aide gives it to you together with the Card Album.
+- The Gracidea and the Prison Bottle no longer open the Taxi Pager's flight page when you use them from the Bag. The Gracidea works on Shaymin again; the Prison Bottle opens the party menu for now, and its Hoopa form change follows in a later version.
+
 ## ALPHA 1.2 (pre-release) — November 22, 2026
 **All features may not be in final version.**
 - Fixed a crash on a real 3DS when you step from Cinnabar Island onto Route 20 (the same kind of entry script in a few other maps, mostly Gym and city maps, was changed the same way).
