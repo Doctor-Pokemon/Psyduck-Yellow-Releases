@@ -2,6 +2,11 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 1.4 (pre-release) — November 22, 2026
+**All features may not be in final version.**
+- The **Prison Bottle** now works: use it from the Bag on a Hoopa and pick it in the party menu to switch it between its Confined and Unbound forms, as the Reveal Glass does for the Forces of Nature.
+- The form-change key items can now be found in the game. Talk to the Oak's Lab aide after you have caught the Pokémon an item belongs to and the aide hands it over once, if it is not in your Bag yet: Gracidea (Shaymin), Reveal Glass (Tornadus, Thundurus or Landorus), DNA Splicers (Kyurem) and Prison Bottle (Hoopa).
+
 ## ALPHA 1.3 (pre-release) — November 22, 2026
 **All features may not be in final version.**
 - Fixed a crash on a real 3DS in some battles with a legendary Pokémon's special in-battle form change: the small emblem next to the battle menu is no longer shown for it (the form change itself still works).
