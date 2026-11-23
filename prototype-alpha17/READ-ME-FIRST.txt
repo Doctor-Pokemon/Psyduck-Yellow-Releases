@@ -1,0 +1,37 @@
+Pokemon Psyduck Yellow - ALPHA 1.7 (pre-release) - November 22, 2026
+
+*** ALL FEATURES MAY NOT BE IN FINAL VERSION. ***
+*** PRE-RELEASE: STILL IN THE LATE STAGES OF TESTING, AND COMPLETE APART FROM VISUAL POLISH. ***
+If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+The Kanto campaign (Pallet Town to your first Hall of Fame) and the Johto postgame (to the second Hall of Fame) are built. This is a pre-release and may still contain bugs.
+
+HOW TO PLAY
+1. Open the patching page: https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha17/index.html
+2. Choose your OWN, original, unmodified USA HeartGold .nds file (not another prototype).
+3. Click "Create my playable NDS", wait for the checks to finish, then download the result ("Pokemon Psyduck Yellow ALPHA 1-7.nds") and load it in your DS emulator.
+4. Start a NEW GAME. Saves from older versions do not work. Keep this build and its saves separate, and never reuse emulator save states between versions.
+Nothing is uploaded; the patching happens in your browser and every step is hash-checked. Expected final SHA256: 1af09bbe6398103b8fc081270ce46778ac43a30b8c49803c484837064244640f
+
+WHAT IS NEW SINCE ALPHA 1.6
+- Replaces ALPHA 1.6. Everything from ALPHA 1.6 is still here. All features may not be in final version.
+- The Pokémon Box Link now opens a menu: Deposit, Withdraw, Move Pokémon, Move Items, and it returns to the menu after each box screen (before, it only opened the deposit screen).
+- The Gracidea now also turns a Sky Forme Shaymin back into its Land Forme (before, it only worked one way).
+- The four new fossil Pokémon (Raptozolt, Dracosaur, Dunklevish, Arctosaur) no longer evolve (they could be evolved into Eevee's family by mistake).
+- Fusing with the N-Solarizer, N-Lunarizer or Reins of Unity now teaches the fused form its signature move (Sunsteel Strike, Moongeist Beam, Glacial Lance, Astral Barrage); splitting takes it away again (Necrozma gets Photon Geyser back).
+- The save layout is unchanged.
+
+WHAT HAS BEEN TESTED
+The developer has played New Game through the Kanto league and first Hall of Fame, and the Johto league and second Hall of Fame, partly on a real 3DS, and has seen the Rocket farewell scene, Pokémon Talk and Giovanni on Cinnabar. The new things since ALPHA 1.3 (the Pokémon Box Link, the key-item use fixes, the Prison Bottle, the fusion items, the Oak's Lab aide's gifts) have had small emulator checks on prepared test saves and are not confirmed on hardware, and have not been checked across a save and reload. Expect bugs, including possible softlocks.
+
+KNOWN ISSUES
+- While two Pokémon are fused, the partner is stored in the save and shows nowhere else: do not release, trade away or deposit the fused Pokémon before splitting it. Splitting Calyrex removes the signature move and leaves an empty move slot; if all four moves were full when fusing, the last move is replaced.
+- The lines the Oak's Lab aide says when handing over the key items are first drafts.
+- Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto.
+- Many of the added Gen 5-9 items still show a "?" icon in the bag.
+- The four new fossil Pokémon and the custom Eeveelutions do not follow you in the overworld yet (their follower art is not made), and their stats, moves, Pokédex heights and weights are first drafts.
+- Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end.
+- The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through.
+- The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.
+
+Public files are patches and documentation only. No ROM, save or game file is distributed; you must supply your own legally obtained game.

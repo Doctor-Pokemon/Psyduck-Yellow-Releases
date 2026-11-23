@@ -3,14 +3,14 @@
 Downloads for **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold (starting Psyduck / Togepi / Eevee, and more).
 
 > ## ⚠️ BETA — FOR TESTING ONLY
-> The newest release (**ALPHA 1.6**) is a pre-release, still in the late stages of testing, and complete apart from visual polish. *All features may not be in final version.* If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+> The newest release (**ALPHA 1.7**) is a pre-release, still in the late stages of testing, and complete apart from visual polish. *All features may not be in final version.* If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
 > The **Kanto campaign (Pallet Town to your first Hall of Fame)** is built, and **more of the Johto postgame** is in,
 > but **Johto is unfinished and has not been played through.** Expect bugs, including softlocks.
 
 ## The game in plain words
 Psyduck Yellow retells **Pokémon Yellow's Kanto story inside Pokémon HeartGold**. You start with **Psyduck, Togepi or Eevee**; and Kanto's towns, gyms, Team Rocket plots, Elite Four and Champion Blue follow Yellow's teams and dialogue. The goal of this project is a finished Kanto adventure from Pallet Town to the first Hall of Fame; Johto (HeartGold's own region) is meant to come later as a postgame.
 
-## Where it stands right now (ALPHA 1.6)
+## Where it stands right now (ALPHA 1.7)
 - **Built:** Pallet Town through Vermilion, Pokémon Tower, Celadon and the Rocket Hideout, Routes 8 and 11–18, Fuchsia, Saffron (with Silph Co.), Seafoam and Viridian gyms, Route 22, Victory Road, the Indigo Plateau League and the Hall of Fame.
 - **Played by the developer:** New Game through Lavender Town on earlier builds, and the Kanto league and first Hall of Fame on hardware. Most of what is new since 0.2.1.0 has only had small emulator tests on prepared saves.
 - **New in 0050:** your starter Eevee can evolve into all eight Eeveelutions and the new Stellar-type **Novareon** (use a Sandwich); plus fixes for the starters' evolution screen and summary sprites.
@@ -18,6 +18,7 @@ Psyduck Yellow retells **Pokémon Yellow's Kanto story inside Pokémon HeartGold
 - **New in 0081:** Novareon's own Pokédex entry and follower, Champion Blue, item balls in Silph Co., the Tower, the Rocket Hideout and Victory Road, Moltres, and fixes for trainer teams, the Game Corner and the Silph exit.
 - **New in 0105:** Pokémon Tower, Mt. Moon, Rock Tunnel, Rocket Hideout, Silph Co., the Pokémon Mansion, Viridian Gym, Victory Road and the Safari Zone rebuilt from Yellow's maps with their puzzles; a black-screen fix in Vermilion's Pokémon Center; a Pokédex registration fix.
 - **New in 0110:** the VS banners name the Elite Four and Champion Blue, Strength works with Kanto badges, Victory Road has real boulders, visible switches and Yellow's first-switch puzzle on 2F, and Novareon counts on the Trainer Card.
+- **New in ALPHA 1.7:** The Pokémon Box Link now opens a menu: Deposit, Withdraw, Move Pokémon, Move Items, and it returns to the menu after each box screen (before, it only opened the deposit screen). The Gracidea now also turns a Sky Forme Shaymin back into its Land Forme (before, it only worked one way). The four new fossil Pokémon (Raptozolt, Dracosaur, Dunklevish, Arctosaur) no longer evolve (they could be evolved into Eevee's family by mistake). Fusing with the N-Solarizer, N-Lunarizer or Reins of Unity now teaches the fused form its signature move (Sunsteel Strike, Moongeist Beam, Glacial Lance, Astral Barrage); splitting takes it away again (Necrozma gets Photon Geyser back).
 - **New in ALPHA 1.6:** The game's second copies of the N-Solarizer, N-Lunarizer and Reins of Unity (the ones listed as "separate" items, which a save that was edited by hand can hold) now work exactly like the first ones: fuse and split, with the same description.
 - **New in ALPHA 1.5:** The N-Solarizer, N-Lunarizer and Reins of Unity now work, like the DNA Splicers do for Kyurem. From the Bag, use the N-Solarizer on a Necrozma while a Solgaleo is in your party, the N-Lunarizer on a Necrozma with a Lunala, or the Reins of Unity on a Calyrex with a Glastrier or Spectrier: the two fuse into one Pokémon and the partner is kept safe in your save. Use the same item on the fused Pokémon (with a free party slot) to split them again and get the partner back. The Oak's Lab aide now also hands out the N-Solarizer (Necrozma and Solgaleo caught), the N-Lunarizer (Necrozma and Lunala caught) and the Reins of Unity (Calyrex and Glastrier or Spectrier caught), once each, like the other form-change items. The DNA Splicers, Reveal Glass, Prison Bottle, N-Solarizer, N-Lunarizer and Reins of Unity now have a description in the Bag (first drafts).
 - **New in ALPHA 1.4:** The Prison Bottle now works: use it from the Bag on a Hoopa and pick it in the party menu to switch it between its Confined and Unbound forms, as the Reveal Glass does for the Forces of Nature. The form-change key items can now be found in the game. Talk to the Oak's Lab aide after you have caught the Pokémon an item belongs to and the aide hands it over once, if it is not in your Bag yet: Gracidea (Shaymin), Reveal Glass (Tornadus, Thundurus or Landorus), DNA Splicers (Kyurem) and Prison Bottle (Hoopa).
@@ -38,7 +39,7 @@ Psyduck Yellow retells **Pokémon Yellow's Kanto story inside Pokémon HeartGold
 
 
 ## Play it
-1. Open the latest page from the [Releases](../../releases) section (or the [hosted ALPHA 1.6 patching page](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha16/index.html)).
+1. Open the latest page from the [Releases](../../releases) section (or the [hosted ALPHA 1.7 patching page](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha17/index.html)).
 2. Select your **own, original, unmodified USA HeartGold `.nds`**.
 3. Click *Create my playable NDS*, wait for verification, then download it and load it in your DS emulator.
 4. Start a **New Game**. Saves from older prototypes are not supported.
@@ -61,6 +62,7 @@ This is an unofficial fan project. It is not affiliated with or endorsed by Nint
 - Pokémon Yellow's data and layout reference from the [pret/pokeyellow](https://github.com/pret/pokeyellow) disassembly
 
 ## Release history (newest first)
+- **ALPHA 1.7 — November 22, 2026 (pre-release).** All features may not be in final version. The Pokémon Box Link opens a full menu, the Gracidea turns Shaymin back to Land Forme the fused forms learn their signature moves and the new fossil Pokémon no longer evolve; still in the late stages of testing, and complete apart from visual polish. Kanto and the Johto postgame both reach a Hall of Fame.
 - **ALPHA 1.6 — November 22, 2026 (pre-release).** All features may not be in final version. The second copies of the N-Solarizer, N-Lunarizer and Reins of Unity work like the first ones; still in the late stages of testing, and complete apart from visual polish. Kanto and the Johto postgame both reach a Hall of Fame.
 - **ALPHA 1.5 — November 22, 2026 (pre-release).** All features may not be in final version. The N-Solarizer, N-Lunarizer and Reins of Unity fuse and split Necrozma and Calyrex with their partners, the Oak's Lab aide hands them out, and the form-change items have descriptions; still in the late stages of testing, and complete apart from visual polish. Kanto and the Johto postgame both reach a Hall of Fame.
 - **ALPHA 1.4 — November 22, 2026 (pre-release).** All features may not be in final version. The Prison Bottle switches Hoopa between its forms, and the Oak's Lab aide now hands out the form-change key items (Gracidea, Reveal Glass, DNA Splicers, Prison Bottle) once you have caught the Pokémon they are for; still in the late stages of testing, and complete apart from visual polish. Kanto and the Johto postgame both reach a Hall of Fame.

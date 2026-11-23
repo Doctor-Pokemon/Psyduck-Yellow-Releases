@@ -2,6 +2,13 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 1.7 (pre-release) — November 22, 2026
+**All features may not be in final version.**
+- The Pokémon Box Link now opens a menu: Deposit, Withdraw, Move Pokémon, Move Items, and it returns to the menu after each box screen (before, it only opened the deposit screen).
+- The Gracidea now also turns a Sky Forme Shaymin back into its Land Forme (before, it only worked one way).
+- The four new fossil Pokémon (Raptozolt, Dracosaur, Dunklevish, Arctosaur) no longer evolve (they could be evolved into Eevee's family by mistake).
+- Fusing with the N-Solarizer, N-Lunarizer or Reins of Unity now teaches the fused form its signature move (Sunsteel Strike, Moongeist Beam, Glacial Lance, Astral Barrage); splitting takes it away again (Necrozma gets Photon Geyser back).
+
 ## ALPHA 1.6 (pre-release) — November 22, 2026
 **All features may not be in final version.**
 - The game's second copies of the N-Solarizer, N-Lunarizer and Reins of Unity (the ones listed as "separate" items, which a save that was edited by hand can hold) now work exactly like the first ones: fuse and split, with the same description.
