@@ -2,6 +2,14 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 1.8 (pre-release) — November 23, 2026
+**All features may not be in final version.**
+- The four new fossil Pokémon (Raptozolt, Dracosaur, Dunklevish, Arctosaur) now use the artist's own pictures: front and back battle pictures, party and box icons, and an overworld follower that walks beside you and faces the right way when it turns left or right. Their shiny colours follow the style of the Galar fossils. The art was drawn by @MACKSFAKEMON, with thanks.
+- The four fossil Pokémon have their own Pokédex entries, categories, heights and weights.
+- Fixed a crash on a real 3DS when one of the four fossil Pokémon was first in your party (the game looked up a follower picture that did not exist).
+- The Pokémon Box Link menu has a GET PARTNER button that returns a fused partner at any time, so a fused partner can no longer be lost.
+- The Pokémon Box Link is now given by Bill in Johto, together with the Eevee, instead of by the aide in Professor Oak's Lab.
+
 ## ALPHA 1.7 (pre-release) — November 22, 2026
 **All features may not be in final version.**
 - The Pokémon Box Link now opens a menu: Deposit, Withdraw, Move Pokémon, Move Items, and it returns to the menu after each box screen (before, it only opened the deposit screen).

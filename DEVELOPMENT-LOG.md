@@ -3,7 +3,7 @@
 A plain-language guide to what has changed, what you can play now, and what is
 still being built. Share this page with anyone following the project.
 
-**Last updated: November 22, 2026.**
+**Last updated: November 23, 2026.**
 
 [Watch LIVE testing with video and audio]()
 
@@ -1595,3 +1595,20 @@ What changed since ALPHA 1.6:
 - Not changed: the save layout.
 
 Known issues: While two Pokémon are fused, the partner is stored in the save and shows nowhere else: do not release, trade away or deposit the fused Pokémon before splitting it. Splitting Calyrex removes the signature move and leaves an empty move slot; if all four moves were full when fusing, the last move is replaced. The lines the Oak's Lab aide says when handing over the key items are first drafts. Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto. Many of the added Gen 5-9 items still show a "?" icon in the bag. The four new fossil Pokémon and the custom Eeveelutions do not follow you in the overworld yet (their follower art is not made), and their stats, moves, Pokédex heights and weights are first drafts. Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end. The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through. The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.
+
+
+## November 23, 2026 — ALPHA 1.8 (pre-release)
+
+**All features may not be in final version. PRE-RELEASE: still in the late stages of testing, and complete apart from visual polish.**
+
+[Create ALPHA 1.8](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha18/index.html). It builds from your original USA HeartGold file in your browser; nothing is uploaded. The finished game is named "Pokemon Psyduck Yellow ALPHA 1-8.nds". If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+What changed since ALPHA 1.7:
+- The four new fossil Pokémon (Raptozolt, Dracosaur, Dunklevish, Arctosaur) now use the artist's own pictures: front and back battle pictures, party and box icons, and an overworld follower that walks beside you and faces the right way when it turns left or right. Their shiny colours follow the style of the Galar fossils. The art was drawn by @MACKSFAKEMON, with thanks.
+- The four fossil Pokémon have their own Pokédex entries, categories, heights and weights.
+- Fixed a crash on a real 3DS when one of the four fossil Pokémon was first in your party (the game looked up a follower picture that did not exist).
+- The Pokémon Box Link menu has a GET PARTNER button that returns a fused partner at any time, so a fused partner can no longer be lost.
+- The Pokémon Box Link is now given by Bill in Johto, together with the Eevee, instead of by the aide in Professor Oak's Lab.
+- Not changed: the save layout.
+
+Known issues: While two Pokémon are fused, the partner is stored in the save and shows nowhere else: do not release, trade away or deposit the fused Pokémon before splitting it (the Box Link's GET PARTNER button returns a partner). Splitting Calyrex removes the signature move and leaves an empty move slot; if all four moves were full when fusing, the last move is replaced. The lines the Oak's Lab aide says when handing over the key items are first drafts. Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto. Many of the added Gen 5-9 items still show a "?" icon in the bag. The custom Eeveelutions do not follow you in the overworld yet (their follower art is not made). Their stats and moves, and the stats, moves, Pokédex heights and weights of the four fossil Pokémon, are first drafts. The Pokédex size-comparison screen draws Arctosaur smaller than it should be, and the fossil Pokémon's cries have not been checked. Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end. The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through. The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.
