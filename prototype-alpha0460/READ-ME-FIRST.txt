@@ -22,6 +22,7 @@ STORY AND REGIONS
 - NEW: Bill's Garden. After Bill gives you an Eevee in Johto, visit his Sea Cottage on Route 25 again: he leads you through a Secret Tunnel to his hidden garden, where Grass Pokémon from every region live.
 
 POKÉMON
+- EVERY Pokémon is obtainable in one single-player game: no trading and no other games needed.
 - A redesigned Eevee and Psyduck starter line, with new Eeveelutions and the Stellar-type Stellareon.
 - Four new fossil Pokémon (Raptozolt, Dracosaur, Dunklevish and Arctosaur, art by @MACKSFAKEMON), revived at the Pewter Museum.
 - Before your first Hall of Fame, Kanto's wild Pokémon are the original 151, in the places FireRed and LeafGreen use. Afterwards a second set of wild Pokémon spreads the whole National Pokédex over Kanto and Johto.
