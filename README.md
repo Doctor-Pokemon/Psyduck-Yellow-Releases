@@ -2,22 +2,59 @@
 
 Downloads for **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold (starting Psyduck / Togepi / Eevee, and more).
 
-> ## ⚠️ BETA — FOR TESTING ONLY
-> The newest release (**ALPHA 1.8**) is a pre-release, still in the late stages of testing, and complete apart from visual polish. *All features may not be in final version.* If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
-> The **Kanto campaign (Pallet Town to your first Hall of Fame)** is built, and **more of the Johto postgame** is in,
-> but **Johto is unfinished and has not been played through.** Expect bugs, including softlocks.
+> ## ⚠️ ALPHA — STILL BEING TESTED
+> The newest release (**ALPHA 0.4.6.0**) is still in the late stages of testing, and complete apart from visual polish. *All features may not be in final version.* If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+> The **Kanto campaign (Pallet Town to your first Hall of Fame)** and the **Johto postgame (to the second Hall of Fame)** are built, plus **crafting** and **Bill's Garden**. Expect bugs, including softlocks.
 
 ## The game in plain words
-Psyduck Yellow retells **Pokémon Yellow's Kanto story inside Pokémon HeartGold**. You start with **Psyduck, Togepi or Eevee**; and Kanto's towns, gyms, Team Rocket plots, Elite Four and Champion Blue follow Yellow's teams and dialogue. The goal of this project is a finished Kanto adventure from Pallet Town to the first Hall of Fame; Johto (HeartGold's own region) is meant to come later as a postgame.
+Psyduck Yellow retells **Pokémon Yellow's Kanto story inside Pokémon HeartGold**. You start with **Psyduck, Togepi or Eevee**; and Kanto's towns, gyms, Team Rocket plots, Elite Four and Champion Blue follow Yellow's teams and dialogue. Kanto runs from Pallet Town to the first Hall of Fame; then Johto (HeartGold's own region) opens as a full postgame, through the Johto League to a second Hall of Fame.
 
-## Where it stands right now (ALPHA 1.8)
-- **Built:** Pallet Town through Vermilion, Pokémon Tower, Celadon and the Rocket Hideout, Routes 8 and 11–18, Fuchsia, Saffron (with Silph Co.), Seafoam and Viridian gyms, Route 22, Victory Road, the Indigo Plateau League and the Hall of Fame.
-- **Played by the developer:** New Game through Lavender Town on earlier builds, and the Kanto league and first Hall of Fame on hardware. Most of what is new since 0.2.1.0 has only had small emulator tests on prepared saves.
+## Features (ALPHA 0.4.6.0)
+### Story and regions
+- Pokémon Yellow's Kanto story retold inside Pokémon HeartGold: start with Psyduck, Togepi or Eevee, and meet Yellow's trainers, teams, wild Pokémon and dialogue on the way to Champion Blue and your first Hall of Fame.
+- Jesse and James of Team Rocket battle you as real two-trainer double battles, with Yellow's teams, and say farewell at the Indigo Plateau later on.
+- Kanto's dungeons are rebuilt from Yellow's maps with their puzzles: Mt. Moon, Rock Tunnel, the Pokémon Tower, the Rocket Hideout, Silph Co., the Pokémon Mansion, the Viridian Gym, Victory Road and the Safari Zone.
+- After the first Hall of Fame the Johto postgame opens: the S.S. Aqua, Johto's eight Gyms (their teams grow with your Johto badges), the Johto League, Red and a second Hall of Fame. More special things are waiting to be discovered in Johto.
+- NEW: Bill's Garden. After Bill gives you an Eevee in Johto, visit his Sea Cottage on Route 25 again: he leads you through a Secret Tunnel to his hidden garden, where Grass Pokémon from every region live.
+
+### Pokémon
+- A redesigned Eevee and Psyduck starter line, with new Eeveelutions and the Stellar-type Stellareon.
+- Four new fossil Pokémon (Raptozolt, Dracosaur, Dunklevish and Arctosaur, art by @MACKSFAKEMON), revived at the Pewter Museum.
+- Before your first Hall of Fame, Kanto's wild Pokémon are the original 151, in the places FireRed and LeafGreen use. Afterwards a second set of wild Pokémon spreads the whole National Pokédex over Kanto and Johto.
+- Legendary Pokémon after the Hall of Fame: themed spots for many of them, a different legendary each day in the Embedded Tower with the Red Orb, and Rayquaza after the Jade Orb.
+- The Form Trader swaps regional forms (Alolan, Galarian and Hisuian), the Linking Cord evolves every trade evolution, and the Pokémon League shop sells evolution items.
+- Experience depends on the level of the Pokémon you defeat.
+
+### Crafting (NEW)
+- Wild Pokémon sometimes drop a crafting material after a battle; every Pokémon family has its own (Feather, Bark, Spark, Fossil Fragment, Canine Fur and about fifty more). Headbutting a tree can shake Bark loose.
+- Kirk, in the house on Route 2, gives you the Ball Craft Kit and teaches you to craft.
+- The Apricorn Workbench crafts Poké Balls from materials in your Bag. The TM Machine crafts TMs from stored materials. Both stand in every Pokémon Center of a town with a Gym (Kanto and Johto) and in Cinnabar's Pokémon Center; Kirk's house has a Workbench too.
+- TMs are single-use, as in the original Yellow, so crafting is how you get more.
+- A MATERIALS menu moves materials between your Bag and the material storage and shows how many you have.
+- The Black Belt at the Saffron Fighting Dojo sells Gems for some recipes.
+
+### Key items
+- Pokémon Box Link (from Bill in Johto): your PC Boxes from the Bag, anywhere: deposit, withdraw, move Pokémon and items, plus the MATERIALS menu.
+- Silph Co. Field Kit: with the right Badge, Cut, Rock Smash, Strength, Surf, Rock Climb, Waterfall and Whirlpool work without a Pokémon that knows the move.
+- Taxi Pager (from Lt. Surge): opens the Fly map from the Bag.
+- Ball Craft Kit (from Kirk) and the Card Album.
+- Form-change items from the Oak's Lab aide once you have caught the right Pokémon: Gracidea, Reveal Glass, DNA Splicers, Prison Bottle, N-Solarizer, N-Lunarizer and Reins of Unity (these last three fuse and split Necrozma and Calyrex with their partners).
+- The Magnet Train Pass, a real Poké Flute for the sleeping Snorlax, and Yellow's story items.
+
+### Comfort
+- Gift Pokémon go to a PC Box when your party is full, and you can nickname gifts and revived fossils.
+- Item Storage in every Pokémon Center PC, a shared Day Care, and Kanto Marts that share their stock.
+- The Kanto Gym Leaders give Stellar Sandwich ingredients with their Badges, and Meowth hosts Pokémon Talk on the radio after the Jesse and James farewell.
+
+## Where it stands right now (ALPHA 0.4.6.0)
+- **Built:** Pallet Town through Vermilion, Pokémon Tower, Celadon and the Rocket Hideout, Routes 8 and 11–18, Fuchsia, Saffron (with Silph Co.), Seafoam and Viridian gyms, Route 22, Victory Road, the Indigo Plateau League and the Hall of Fame; the Johto postgame with its eight Gyms, the Johto League, Red and the second Hall of Fame; crafting; and Bill's Garden.
+- **Played by the developer:** The developer has played New Game through the Kanto league and first Hall of Fame, and the Johto league and second Hall of Fame, partly on a real 3DS. Crafting (drops, the Apricorn Workbench, the TM Machine and the MATERIALS menu) has been played on a real 3DS. Bill's Garden has been played through in an emulator; Bill's escort and the garden's final layout have only been checked in emulator tests. Every new script passes an automatic crash check in the emulator before release. Expect bugs, including possible softlocks.
 - **New in 0050:** your starter Eevee can evolve into all eight Eeveelutions and the new Stellar-type **Novareon** (use a Sandwich); plus fixes for the starters' evolution screen and summary sprites.
 - **New in 0056:** the Pokédex opens on Kanto (1-151) with real National numbers for the starter Pokémon; TM34 is Moonblast and TM58 is Dazzling Gleam.
 - **New in 0081:** Novareon's own Pokédex entry and follower, Champion Blue, item balls in Silph Co., the Tower, the Rocket Hideout and Victory Road, Moltres, and fixes for trainer teams, the Game Corner and the Silph exit.
 - **New in 0105:** Pokémon Tower, Mt. Moon, Rock Tunnel, Rocket Hideout, Silph Co., the Pokémon Mansion, Viridian Gym, Victory Road and the Safari Zone rebuilt from Yellow's maps with their puzzles; a black-screen fix in Vermilion's Pokémon Center; a Pokédex registration fix.
 - **New in 0110:** the VS banners name the Elite Four and Champion Blue, Strength works with Kanto badges, Victory Road has real boulders, visible switches and Yellow's first-switch puzzle on 2F, and Novareon counts on the Trainer Card.
+- **New in ALPHA 0.4.6.0:** NEW: CRAFTING. Wild Pokémon sometimes drop crafting materials after a battle (Feather, Bark, Spark, Fossil Fragment, Canine Fur and about fifty more); they go into your Bag. Every Pokémon family has its own material. Kirk, in the house on Route 2, gives you the Ball Craft Kit and explains crafting. You can build Poké Balls from materials at the new Apricorn Workbench, which stands in every Pokémon Center of a town with a Gym (Kanto and Johto), in Cinnabar's Pokémon Center and in Kirk's house. The new TM Machine (in the same Pokémon Centers) crafts TMs from stored materials. TMs are single-use again, like in the original Yellow, so you can craft a replacement when you need one. Some recipes use materials that only appear after the first Hall of Fame. A MATERIALS menu (at the TM Machine, the Apricorn Workbench and in the Pokémon Box Link) moves materials between your Bag and the material storage, showing how many you have of each. Headbutting a tree can shake Bark loose. The Black Belt at the Saffron Fighting Dojo now sells Gems. Before your first Hall of Fame, wild Pokémon in Kanto are only the original 151, in the places FireRed and LeafGreen use. A rare Vileplume lives on Routes 14 and 15. Experience now depends on the level of the Pokémon you defeat, not on the level of your own Pokémon. NEW: BILL'S GARDEN. After Bill gives you the Eevee in Johto, visit his Sea Cottage on Route 25 again. Bill leads you through a Secret Tunnel to his hidden garden, where Grass Pokémon from every region live in the tall grass. Bill in Johto now really hands over the Pokémon Box Link (before, his scene ended early and the item was never given). Fixed several crashes on a real 3DS: one while walking during some scenes (for example the Pewter City guide), Bill's PC list and the Cerulean badge guide list, and a missing-picture crash. An Egg's summary page no longer shows the wrong picture.
 - **New in ALPHA 1.8:** The four new fossil Pokémon (Raptozolt, Dracosaur, Dunklevish, Arctosaur) now use the artist's own pictures: front and back battle pictures, party and box icons, and an overworld follower that walks beside you and faces the right way when it turns left or right. Their shiny colours follow the style of the Galar fossils. The art was drawn by @MACKSFAKEMON, with thanks. The four fossil Pokémon have their own Pokédex entries, categories, heights and weights. Fixed a crash on a real 3DS when one of the four fossil Pokémon was first in your party (the game looked up a follower picture that did not exist). The Pokémon Box Link menu has a GET PARTNER button that returns a fused partner at any time, so a fused partner can no longer be lost. The Pokémon Box Link is now given by Bill in Johto, together with the Eevee, instead of by the aide in Professor Oak's Lab.
 - **New in ALPHA 1.7:** The Pokémon Box Link now opens a menu: Deposit, Withdraw, Move Pokémon, Move Items, and it returns to the menu after each box screen (before, it only opened the deposit screen). The Gracidea now also turns a Sky Forme Shaymin back into its Land Forme (before, it only worked one way). The four new fossil Pokémon (Raptozolt, Dracosaur, Dunklevish, Arctosaur) no longer evolve (they could be evolved into Eevee's family by mistake). Fusing with the N-Solarizer, N-Lunarizer or Reins of Unity now teaches the fused form its signature move (Sunsteel Strike, Moongeist Beam, Glacial Lance, Astral Barrage); splitting takes it away again (Necrozma gets Photon Geyser back).
 - **New in ALPHA 1.6:** The game's second copies of the N-Solarizer, N-Lunarizer and Reins of Unity (the ones listed as "separate" items, which a save that was edited by hand can hold) now work exactly like the first ones: fuse and split, with the same description.
@@ -36,11 +73,11 @@ Psyduck Yellow retells **Pokémon Yellow's Kanto story inside Pokémon HeartGold
 - **New in 0160:** replaces 0158 (and 0157): the Town Map and Fly map stay Kanto-only until Elm's call even if the game already set New Bark Town's Fly point, and walking into Pallet Town no longer unlocks it.
 - **New in 0158:** replaces 0157, which crashed in battle (a Town Map change had overwritten a battle routine); same features as 0157, fixed.
 - **New in 0157:** the redesigned Eevee/Psyduck starter line (nine new Eeveelutions, Stellareon), the Town Map that shows only Kanto until you reach Johto, the first parts of the Johto postgame (S.S. Aqua, Elm, Mr. Pokémon), Johto difficulty that scales with your Johto badges, the Johto League and Red, shared Kanto Mart stock, a Rare Candy move-learning fix, ladder and warp art in the caves, and 3DS crash fixes.
-- **Not built yet:** elevator floor menus (stairs for now), some stand-in textures, some Game Corner and Department Store extras, and **most of Johto** (only the postgame steps above exist, and they have not been played through).
+- **Not built yet:** elevator floor menus (stairs for now), some stand-in textures, some Game Corner and Department Store extras, and visual polish.
 
 
 ## Play it
-1. Open the latest page from the [Releases](../../releases) section (or the [hosted ALPHA 1.8 patching page](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha18/index.html)).
+1. Open the latest page from the [Releases](../../releases) section (or the [hosted ALPHA 0.4.6.0 patching page](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha0460/index.html)).
 2. Select your **own, original, unmodified USA HeartGold `.nds`**.
 3. Click *Create my playable NDS*, wait for verification, then download it and load it in your DS emulator.
 4. Start a **New Game**. Saves from older prototypes are not supported.
@@ -57,12 +94,23 @@ The text and documentation in this repository are released under **CC BY-NC-SA 4
 
 This is an unofficial fan project. It is not affiliated with or endorsed by Nintendo, Game Freak, Creatures or The Pokémon Company. Pokémon and related names are trademarks of their owners.
 
-## Credits
-- [hg-engine](https://github.com/BluRosie/hg-engine) by BluRosie and contributors
-- RomPatcher.js (patch decoder in the patching page) by Marc Robledo, MIT licence
-- Pokémon Yellow's data and layout reference from the [pret/pokeyellow](https://github.com/pret/pokeyellow) disassembly
+## Credits and thanks
+From the bottom of our hearts, thank you to everyone whose work and resources made Psyduck Yellow possible:
+
+- [hg-engine](https://github.com/BluRosie/hg-engine) by BluRosie and all of its contributors (the full list ships with every release as HG-ENGINE-CREDITS.md): the engine this game is built on.
+- The [pret](https://github.com/pret) team and contributors for the pokeyellow, pokeheartgold and pokefirered disassemblies: Yellow's maps, teams and dialogue, HeartGold's inner workings, and FireRed / LeafGreen's wild Pokémon places.
+- @MACKSFAKEMON for the art of the four new fossil Pokémon.
+- The Generation 9 Pack for Pokémon Essentials ([Eevee Expo](https://eeveeexpo.com/resources/1101/)) for several Gen 9 battle sprites, drawn by KingOfThe-X-Roads, Mak, Caruban, jinxed, leParagon, Sopita_Yorita, Azria, Mashirosakura, JordanosArt, Abnayami, OldSoulja, Katten, Divaruta 666, Clara, Skyflyer, AshnixsLaw, ace_stryfe and the contributors to the Smogon Sprite Project.
+- [Serebii.net](https://www.serebii.net) for its Item Dex pictures and the game data we checked against.
+- [PKHeX](https://github.com/kwsch/PKHeX) by kwsch and contributors for item artwork, and [PKSM](https://github.com/FlagBrew/PKSM) by FlagBrew: the save editors we adapted for Psyduck Yellow.
+- RomPatcher.js by Marc Robledo (MIT licence) for the patch decoder in the patching page.
+- [ndspy](https://github.com/RoadrunnerWMC/ndspy) by RoadrunnerWMC, and Pokémon DS Map Studio by Trifindo, whose map model format we followed.
+- The DeSmuME and melonDS teams, whose emulators every build is tested in.
+- Game Freak, Creatures, Nintendo and The Pokémon Company for the original games. This is an unofficial fan project and is not affiliated with or endorsed by them.
+- And everyone who plays, tests and reports problems. Thank you!
 
 ## Release history (newest first)
+- **ALPHA 0.4.6.0 — November 26, 2026.** All features may not be in final version. Crafting (material drops, the Apricorn Workbench, the TM Machine, single-use TMs), Kanto wild Pokémon as in FireRed / LeafGreen before the first Hall of Fame, Bill's Garden in the postgame, and several 3DS crash fixes; still in the late stages of testing, and complete apart from visual polish. Kanto and the Johto postgame both reach a Hall of Fame.
 - **ALPHA 1.8 — November 23, 2026 (pre-release).** All features may not be in final version. The four fossil Pokémon get the artist's own art, shiny colours, followers and Pokédex entries, a 3DS crash with a fossil Pokémon in the lead is fixed, and Bill gives the Pokémon Box Link in Johto; still in the late stages of testing, and complete apart from visual polish. Kanto and the Johto postgame both reach a Hall of Fame.
 - **ALPHA 1.7 — November 22, 2026 (pre-release).** All features may not be in final version. The Pokémon Box Link opens a full menu, the Gracidea turns Shaymin back to Land Forme the fused forms learn their signature moves and the new fossil Pokémon no longer evolve; still in the late stages of testing, and complete apart from visual polish. Kanto and the Johto postgame both reach a Hall of Fame.
 - **ALPHA 1.6 — November 22, 2026 (pre-release).** All features may not be in final version. The second copies of the N-Solarizer, N-Lunarizer and Reins of Unity work like the first ones; still in the late stages of testing, and complete apart from visual polish. Kanto and the Johto postgame both reach a Hall of Fame.

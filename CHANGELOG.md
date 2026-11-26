@@ -2,6 +2,19 @@
 
 All notable changes to **Pokémon Psyduck Yellow**, an unofficial fan project that rebuilds Pokémon Yellow's Kanto campaign inside Pokémon HeartGold. Newest first. These are betas for testing; see the [Releases](../../releases) page for the downloads and the patching page.
 
+## ALPHA 0.4.6.0 — November 26, 2026
+**All features may not be in final version.**
+- NEW: CRAFTING. Wild Pokémon sometimes drop crafting materials after a battle (Feather, Bark, Spark, Fossil Fragment, Canine Fur and about fifty more); they go into your Bag. Every Pokémon family has its own material.
+- Kirk, in the house on Route 2, gives you the Ball Craft Kit and explains crafting. You can build Poké Balls from materials at the new Apricorn Workbench, which stands in every Pokémon Center of a town with a Gym (Kanto and Johto), in Cinnabar's Pokémon Center and in Kirk's house.
+- The new TM Machine (in the same Pokémon Centers) crafts TMs from stored materials. TMs are single-use again, like in the original Yellow, so you can craft a replacement when you need one. Some recipes use materials that only appear after the first Hall of Fame.
+- A MATERIALS menu (at the TM Machine, the Apricorn Workbench and in the Pokémon Box Link) moves materials between your Bag and the material storage, showing how many you have of each.
+- Headbutting a tree can shake Bark loose. The Black Belt at the Saffron Fighting Dojo now sells Gems.
+- Before your first Hall of Fame, wild Pokémon in Kanto are only the original 151, in the places FireRed and LeafGreen use. A rare Vileplume lives on Routes 14 and 15.
+- Experience now depends on the level of the Pokémon you defeat, not on the level of your own Pokémon.
+- NEW: BILL'S GARDEN. After Bill gives you the Eevee in Johto, visit his Sea Cottage on Route 25 again. Bill leads you through a Secret Tunnel to his hidden garden, where Grass Pokémon from every region live in the tall grass.
+- Bill in Johto now really hands over the Pokémon Box Link (before, his scene ended early and the item was never given).
+- Fixed several crashes on a real 3DS: one while walking during some scenes (for example the Pewter City guide), Bill's PC list and the Cerulean badge guide list, and a missing-picture crash. An Egg's summary page no longer shows the wrong picture.
+
 ## ALPHA 1.8 (pre-release) — November 23, 2026
 **All features may not be in final version.**
 - The four new fossil Pokémon (Raptozolt, Dracosaur, Dunklevish, Arctosaur) now use the artist's own pictures: front and back battle pictures, party and box icons, and an overworld follower that walks beside you and faces the right way when it turns left or right. Their shiny colours follow the style of the Galar fossils. The art was drawn by @MACKSFAKEMON, with thanks.

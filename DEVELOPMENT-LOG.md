@@ -3,7 +3,7 @@
 A plain-language guide to what has changed, what you can play now, and what is
 still being built. Share this page with anyone following the project.
 
-**Last updated: November 23, 2026.**
+**Last updated: November 26, 2026.**
 
 [Watch LIVE testing with video and audio]()
 
@@ -1612,3 +1612,25 @@ What changed since ALPHA 1.7:
 - Not changed: the save layout.
 
 Known issues: While two Pokémon are fused, the partner is stored in the save and shows nowhere else: do not release, trade away or deposit the fused Pokémon before splitting it (the Box Link's GET PARTNER button returns a partner). Splitting Calyrex removes the signature move and leaves an empty move slot; if all four moves were full when fusing, the last move is replaced. The lines the Oak's Lab aide says when handing over the key items are first drafts. Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto. Many of the added Gen 5-9 items still show a "?" icon in the bag. The custom Eeveelutions do not follow you in the overworld yet (their follower art is not made). Their stats and moves, and the stats, moves, Pokédex heights and weights of the four fossil Pokémon, are first drafts. The Pokédex size-comparison screen draws Arctosaur smaller than it should be, and the fossil Pokémon's cries have not been checked. Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions (nearly the whole National Pokédex registered) have not been tested end to end. The Pewter City scenes with Steven and Latios, the Magnet Train ride after a real Hall of Fame and Rayquaza after the Jade Orb have only been checked in pieces on prepared test saves, not played through. The new Stellar Sandwich ingredient gifts have only had small emulator checks (Erika, Janine, Sabrina, Brock and the Viridian Gym) and their messages are placeholders; Misty, Surge and Blaine have not been checked by hand.
+
+
+## November 26, 2026 — ALPHA 0.4.6.0
+
+**All features may not be in final version. Still in the late stages of testing, and complete apart from visual polish.**
+
+[Create ALPHA 0.4.6.0](https://raw.githack.com/Doctor-Pokemon/Psyduck-Yellow-Releases/main/prototype-alpha0460/index.html). It builds from your original USA HeartGold file in your browser; nothing is uploaded. The finished game is named "Pokemon Psyduck Yellow ALPHA 0-4-6-0.nds". If you run into any problem, please let us know by submitting an official Issue in the Issues section of this repository: https://github.com/Doctor-Pokemon/Psyduck-Yellow-Releases/issues
+
+What changed since ALPHA 1.8:
+- NEW: CRAFTING. Wild Pokémon sometimes drop crafting materials after a battle (Feather, Bark, Spark, Fossil Fragment, Canine Fur and about fifty more); they go into your Bag. Every Pokémon family has its own material.
+- Kirk, in the house on Route 2, gives you the Ball Craft Kit and explains crafting. You can build Poké Balls from materials at the new Apricorn Workbench, which stands in every Pokémon Center of a town with a Gym (Kanto and Johto), in Cinnabar's Pokémon Center and in Kirk's house.
+- The new TM Machine (in the same Pokémon Centers) crafts TMs from stored materials. TMs are single-use again, like in the original Yellow, so you can craft a replacement when you need one. Some recipes use materials that only appear after the first Hall of Fame.
+- A MATERIALS menu (at the TM Machine, the Apricorn Workbench and in the Pokémon Box Link) moves materials between your Bag and the material storage, showing how many you have of each.
+- Headbutting a tree can shake Bark loose. The Black Belt at the Saffron Fighting Dojo now sells Gems.
+- Before your first Hall of Fame, wild Pokémon in Kanto are only the original 151, in the places FireRed and LeafGreen use. A rare Vileplume lives on Routes 14 and 15.
+- Experience now depends on the level of the Pokémon you defeat, not on the level of your own Pokémon.
+- NEW: BILL'S GARDEN. After Bill gives you the Eevee in Johto, visit his Sea Cottage on Route 25 again. Bill leads you through a Secret Tunnel to his hidden garden, where Grass Pokémon from every region live in the tall grass.
+- Bill in Johto now really hands over the Pokémon Box Link (before, his scene ended early and the item was never given).
+- Fixed several crashes on a real 3DS: one while walking during some scenes (for example the Pewter City guide), Bill's PC list and the Cerulean badge guide list, and a missing-picture crash. An Egg's summary page no longer shows the wrong picture.
+- Not changed: the save layout.
+
+Known issues: Some of the newest lines (Kirk, the TM Machine, the Apricorn Workbench and the people in Bill's Garden) are first drafts. Some TM and Poké Ball recipes need materials that no Pokémon in Kanto drops before the first Hall of Fame; they become craftable later. While two Pokémon are fused, the partner is stored in the save and shows nowhere else: do not release, trade away or deposit the fused Pokémon before splitting it (the Box Link's GET PARTNER button returns a partner). Several Johto characters (not the Gym Leaders) still hand out HMs that you already own from Kanto. Many of the added Gen 5-9 items still show a "?" icon in the bag. The custom Eeveelutions do not follow you in the overworld yet (their follower art is not made). Their stats and moves, and those of the four fossil Pokémon, are first drafts. Catching the new legendary Pokémon, the weekly rollover of the daily encounter and the real Mew and Arceus conditions have not been tested end to end.
